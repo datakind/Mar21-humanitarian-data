@@ -1,7 +1,7 @@
 # Mar21-humanitarian-data
 Volunteers will explore existing data on humanitarian response to identify areas of improvement opportunity - e.g. suggesting areas of greatest potential impact to provide care, and proposing optimization of routes for service delivery.
 
-full brief here: https://docs.google.com/document/d/1yEH9FlYRnRY8_KI_5OyXAS7moE2hTbjPpkYNe46qTss/edit#
+full brief [here](https://docs.google.com/document/d/1yEH9FlYRnRY8_KI_5OyXAS7moE2hTbjPpkYNe46qTss/edit#): 
 
 Introduction
 The consortium of Save the Children, CARE, and Oxfam International represent a significant amount of the humanitarian response across the globe.  These three organizations are leaders in the application of technology to development and have each embraced digital and data transformation over the past decade.  However, they recognize that sector change - the prioritization and adoption of data-forward activities (digital data collection, analytics, decision-making) - will only come if leading organizations like theirs embrace - and demonstrate - frameworks and systems that showcase the value of data. In this pilot program, the consortium will focus on improving their understanding and implementation of multi-sectoral response to COVID-19 using both organization-held data as well as public data in key service areas. 
