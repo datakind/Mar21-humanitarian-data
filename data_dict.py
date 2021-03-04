@@ -32,3 +32,4 @@ def get_data_dictionary(data_name: str) -> pd.DataFrame:
         data_dictionary.append(col_data)
     data_dictionary_df = pd.DataFrame(data_dictionary, columns=['label', 'desc'])
     return data_dictionary_df
+
