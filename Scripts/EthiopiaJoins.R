@@ -34,9 +34,6 @@ library(geojsonio)
 library(lwgeom)
 
 
-## Topojson boundaries from https://www.geoboundaries.org/
-## MakeCountyBoudaries script filtered to each country and wrote separate topojson files. 
-## Here we can read them back in from GitHub.
 
 
 ##Download shapefiles ADM1, ADM2, and ADM3 together from https://data.humdata.org/dataset/ethiopia-cod-ab. All are contained in one zip file.
