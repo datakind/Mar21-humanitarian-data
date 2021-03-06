@@ -32,6 +32,7 @@ library(haven)
 library(jsonlite)
 library(geojsonio)
 library(lwgeom)
+library(readxl)
 
 
 
@@ -102,7 +103,14 @@ medical<-geojson_sf("https://data.humdata.org/dataset/0cc29a44-cc6d-449a-b3b7-d2
 
 
 ## Refugee Camp Locations from https://data.humdata.org/dataset/ethiopia-refugee-camp-locations
+refugeeCamps<-st_read("https://data.humdata.org/dataset/19ba356b-170e-430e-82d8-7d1acdb58ffc/resource/b469e2cb-7eb6-4e62-a303-41ad51f9e0b7/download/eth_refugee_camps_unhcr_2019.zip",layer="eth_pplp_multiplesources_20160205")
 
+
+
+
+## Load in humanitarian needs
+
+humdat<-xlsx("https://data.humdata.org/dataset/882d0746-ac2a-4471-b40d-a92dee832ee2/resource/04e357f9-9ab7-4d6b-8102-2503bf02c6be/download/ethiopia-2020-humanitarian-needs-overview.xlsx")
 
 
 
