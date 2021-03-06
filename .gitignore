@@ -93,3 +93,10 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+#data sources
+*.csv
+*.json
+*.xlsx
+*.xlsm
+*.png
