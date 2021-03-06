@@ -1,0 +1,528 @@
+ea_id,saq14,saq01,saq02,saq03,saq04,saq05,saq06,saq07,cs5q01_1,cs5q01_2,cs5q01_3,cs5q01_os,cs5q02,cs5q03,cs5q04,cs5q05_1,cs5q05_2,cs5q05_os,cs5q06,cs5q07,cs5q08_1,cs5q08_2,cs5q08_os,cs5q09,cs5q10,cs5q11
+010101088800910,1. RURAL,1. TIGRAY,01,01,8,88,009,10,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,
+010102088801010,1. RURAL,1. TIGRAY,01,02,8,88,010,10,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+010103088800709,1. RURAL,1. TIGRAY,01,03,8,88,007,09,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,20,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+010104010100101,2. URBAN,1. TIGRAY,01,04,1,1,001,01,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,25,1. Rural Areas,1. Farming,11. Other (Specify),Werk mateb,1. YES,2. Urban Centres,11. Other (Specify),,Gnbara,2. NO,,
+010104088800405,1. RURAL,1. TIGRAY,01,04,8,88,004,05,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+010105088800712,1. RURAL,1. TIGRAY,01,05,8,88,007,12,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,
+010105088802215,1. RURAL,1. TIGRAY,01,05,8,88,022,15,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+010106088801204,1. RURAL,1. TIGRAY,01,06,8,88,012,04,1. Farming,,,,1. YES,5,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+010107010100213,2. URBAN,1. TIGRAY,01,07,1,1,002,13,11. Other (Specify),,,Yeken Sera,1. YES,5,2. Urban Centres,1. Farming,,,1. YES,2. Urban Centres,10. Civil Service,,,1. YES,10,5
+010108010100218,2. URBAN,1. TIGRAY,01,08,1,1,002,18,10. Civil Service,9. Professional Occupations,1. Farming,,1. YES,10,2. Urban Centres,10. Civil Service,,,1. YES,2. Urban Centres,10. Civil Service,,,1. YES,30,25
+010201088801806,1. RURAL,1. TIGRAY,02,01,8,88,018,06,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,11. Other (Specify),,werk flega,2. NO,,
+010202088801509,1. RURAL,1. TIGRAY,02,02,8,88,015,09,1. Farming,,,,1. YES,2,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+010203020100103,2. URBAN,1. TIGRAY,02,03,2,1,001,03,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,3,1. Rural Areas,1. Farming,9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,10. Civil Service,,1. YES,1,1
+010203088800910,1. RURAL,1. TIGRAY,02,03,8,88,009,10,1. Farming,,,,1. YES,2,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+010204088800713,1. RURAL,1. TIGRAY,02,04,8,88,007,13,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+010205088801106,1. RURAL,1. TIGRAY,02,05,8,88,011,06,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+010206088801508,1. RURAL,1. TIGRAY,02,06,8,88,015,08,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+010207088802009,1. RURAL,1. TIGRAY,02,07,8,88,020,09,1. Farming,,,,1. YES,,2. Urban Centres,1. Farming,9. Professional Occupations,,1. YES,2. Urban Centres,10. Civil Service,,,2. NO,,
+010208088802007,1. RURAL,1. TIGRAY,02,08,8,88,020,07,1. Farming,,,,1. YES,7,2. Urban Centres,11. Other (Specify),,yegulibet sira,2. NO,,,,,2. NO,,
+010209010100218,2. URBAN,1. TIGRAY,02,09,1,1,002,18,1. Farming,10. Civil Service,11. Other (Specify),ken serategna,1. YES,10,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,2. Urban Centres,10. Civil Service,,,1. YES,9,11
+010210088801507,1. RURAL,1. TIGRAY,02,10,8,88,015,07,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,25,2. Urban Centres,11. Other (Specify),,yegulibet sira,2. NO,,,,,1. YES,15,12
+010211010100302,2. URBAN,1. TIGRAY,02,11,1,1,003,02,4. Small-Scale Trade & Service Provision,,,,1. YES,2,2. Urban Centres,10. Civil Service,9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,11. Other (Specify),yegulbet sra,1. YES,5,3
+010212010100510,2. URBAN,1. TIGRAY,02,12,1,1,005,10,9. Professional Occupations,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,1,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,1,0
+010302088800603,1. RURAL,1. TIGRAY,03,02,8,88,006,03,1. Farming,,,,1. YES,25,3. Outside Ethiopia,1. Farming,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,2. NO,,
+010303088802005,1. RURAL,1. TIGRAY,03,03,8,88,020,05,1. Farming,,,,1. YES,4,3. Outside Ethiopia,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+010304088801407,1. RURAL,1. TIGRAY,03,04,8,88,014,07,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+010305088801602,1. RURAL,1. TIGRAY,03,05,8,88,016,02,1. Farming,,,,1. YES,1,2. Urban Centres,1. Farming,,,1. YES,2. Urban Centres,10. Civil Service,,,2. NO,,
+010306010100104,2. URBAN,1. TIGRAY,03,06,1,1,001,04,1. Farming,"5. Beer Brewing, Kachasu",9. Professional Occupations,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,45,55
+010306088801803,1. RURAL,1. TIGRAY,03,06,8,88,018,03,1. Farming,"5. Beer Brewing, Kachasu",,,1. YES,10,3. Outside Ethiopia,11. Other (Specify),,gulibet sira,1. YES,1. Rural Areas,11. Other (Specify),9. Professional Occupations,gulibet sira,2. NO,,
+010307088801303,1. RURAL,1. TIGRAY,03,07,8,88,013,03,1. Farming,,,,1. YES,5,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+010308010100402,2. URBAN,1. TIGRAY,03,08,1,1,004,02,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,48,52
+010309010100311,2. URBAN,1. TIGRAY,03,09,1,1,003,11,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu","6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,1. YES,1. Rural Areas,"5. Beer Brewing, Kachasu",9. Professional Occupations,,1. YES,39,31
+010401088800209,1. RURAL,1. TIGRAY,04,01,8,88,002,09,1. Farming,,,,1. YES,5,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+010401088801804,1. RURAL,1. TIGRAY,04,01,8,88,018,04,1. Farming,,,,1. YES,2,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+010403088800201,1. RURAL,1. TIGRAY,04,03,8,88,002,01,1. Farming,,,,1. YES,3,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+010403088801801,1. RURAL,1. TIGRAY,04,03,8,88,018,01,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,3. Outside Ethiopia,11. Other (Specify),,teketrew yseralu,2. NO,,,,,2. NO,,
+010405010100123,2. URBAN,1. TIGRAY,04,05,1,1,001,23,1. Farming,,,,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,yebet west sera,2. NO,,,,,1. YES,75,25
+010405088800102,1. RURAL,1. TIGRAY,04,05,8,88,001,02,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,2,2. Urban Centres,9. Professional Occupations,1. Farming,,2. NO,,,,,2. NO,,
+010408010100204,2. URBAN,1. TIGRAY,04,08,1,1,002,04,4. Small-Scale Trade & Service Provision,,,,1. YES,2,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,1. YES,80,20
+010501088800902,1. RURAL,1. TIGRAY,05,01,8,88,009,02,1. Farming,,,,1. YES,10,1. Rural Areas,9. Professional Occupations,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+010502020100102,2. URBAN,1. TIGRAY,05,02,2,1,001,02,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,2,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,11. Other (Specify),,yegnbat sera,2. NO,,
+010502088801410,1. RURAL,1. TIGRAY,05,02,8,88,014,10,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+010503088800803,1. RURAL,1. TIGRAY,05,03,8,88,008,03,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,2. NO,,
+010601010100215,2. URBAN,1. TIGRAY,06,01,1,1,002,15,10. Civil Service,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,67,33
+010602010100216,2. URBAN,1. TIGRAY,06,02,1,1,002,16,11. Other (Specify),10. Civil Service,4. Small-Scale Trade & Service Provision,ken serategna,2. NO,,,,,,2. NO,,,,,1. YES,58,42
+010604010100137,2. URBAN,1. TIGRAY,06,04,1,1,001,37,10. Civil Service,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,10,10
+010605010100313,2. URBAN,1. TIGRAY,06,05,1,1,003,13,4. Small-Scale Trade & Service Provision,10. Civil Service,"6. Handicraft Production, Small-Scale Industry",,1. YES,30,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,1. Rural Areas,11. Other (Specify),,yebat wust sira,1. YES,10,10
+010606010100423,2. URBAN,1. TIGRAY,06,06,1,1,004,23,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,20,5
+010701088802004,1. RURAL,1. TIGRAY,07,01,8,88,020,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+010702010100112,2. URBAN,1. TIGRAY,07,02,1,1,001,12,11. Other (Specify),,,anestgn neged,1. YES,2,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,,,,1. YES,5,3
+010702088801409,1. RURAL,1. TIGRAY,07,02,8,88,014,09,1. Farming,10. Civil Service,"3. Firewood, Charcoal Selling",,1. YES,5,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,,,,2. NO,,
+010703088801107,1. RURAL,1. TIGRAY,07,03,8,88,011,07,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,25,2. Urban Centres,11. Other (Specify),,yegulbet sira,2. NO,,,,,1. YES,75,0
+010704088800402,1. RURAL,1. TIGRAY,07,04,8,88,004,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020101010100104,2. URBAN,2. AFAR,01,01,1,1,001,04,10. Civil Service,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,2. NO,,,,,,1. YES,2. Urban Centres,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,
+020101088800704,1. RURAL,2. AFAR,01,01,8,88,007,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020102010100103,2. URBAN,2. AFAR,01,02,1,1,001,03,10. Civil Service,,,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+020103088800401,1. RURAL,2. AFAR,01,03,8,88,004,01,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+020103088801102,1. RURAL,2. AFAR,01,03,8,88,011,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020106010100102,2. URBAN,2. AFAR,01,06,1,1,001,02,4. Small-Scale Trade & Service Provision,8. Large-Scale Commercial Industry,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020106088801201,1. RURAL,2. AFAR,01,06,8,88,012,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020108088800804,1. RURAL,2. AFAR,01,08,8,88,008,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020201088800301,1. RURAL,2. AFAR,02,01,8,88,003,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020202020100102,2. URBAN,2. AFAR,02,02,2,1,001,02,1. Farming,,,,1. YES,5,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+020202088800202,1. RURAL,2. AFAR,02,02,8,88,002,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020203010100206,2. URBAN,2. AFAR,02,03,1,1,002,06,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,22,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,2. Urban Centres,10. Civil Service,1. Farming,,1. YES,15,10
+020203088800202,1. RURAL,2. AFAR,02,03,8,88,002,02,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yegleseb Sera,2. NO,,,,,2. NO,,
+020203088800905,1. RURAL,2. AFAR,02,03,8,88,009,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020205088800207,1. RURAL,2. AFAR,02,05,8,88,002,07,1. Farming,10. Civil Service,,,1. YES,15,3. Outside Ethiopia,9. Professional Occupations,11. Other (Specify),Yegleseb sera,2. NO,,,,,1. YES,20,80
+020205088800715,1. RURAL,2. AFAR,02,05,8,88,007,15,1. Farming,,,,1. YES,2,3. Outside Ethiopia,9. Professional Occupations,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+020206088800113,1. RURAL,2. AFAR,02,06,8,88,001,13,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,5,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,1. Rural Areas,9. Professional Occupations,1. Farming,,1. YES,48,2
+020206088800803,1. RURAL,2. AFAR,02,06,8,88,008,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020206088801304,1. RURAL,2. AFAR,02,06,8,88,013,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020207010100104,2. URBAN,2. AFAR,02,07,1,1,001,04,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yechew mamret sira,2. NO,,
+020301020100111,2. URBAN,2. AFAR,03,01,2,1,001,11,1. Farming,,,,1. YES,15,2. Urban Centres,1. Farming,10. Civil Service,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+020301088800303,1. RURAL,2. AFAR,03,01,8,88,003,03,1. Farming,"3. Firewood, Charcoal Selling",,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020302088800306,1. RURAL,2. AFAR,03,02,8,88,003,06,1. Farming,,,,1. YES,5,1. Rural Areas,9. Professional Occupations,10. Civil Service,,1. YES,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,
+020303020100103,2. URBAN,2. AFAR,03,03,2,1,001,03,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020303088800501,1. RURAL,2. AFAR,03,03,8,88,005,01,1. Farming,,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+020304088800703,1. RURAL,2. AFAR,03,04,8,88,007,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020305010100306,2. URBAN,2. AFAR,03,05,1,1,003,06,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,1. YES,10,2. Urban Centres,10. Civil Service,9. Professional Occupations,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,10. Civil Service,,2. NO,,
+020305010100601,2. URBAN,2. AFAR,03,05,1,1,006,01,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,
+020306088800903,1. RURAL,2. AFAR,03,06,8,88,009,03,1. Farming,,,,1. YES,3,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+020401088800602,1. RURAL,2. AFAR,04,01,8,88,006,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020403010100102,2. URBAN,2. AFAR,04,03,1,1,001,02,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+020403088800302,1. RURAL,2. AFAR,04,03,8,88,003,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020404088800501,1. RURAL,2. AFAR,04,04,8,88,005,01,1. Farming,,,,1. YES,3,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+020405088800405,1. RURAL,2. AFAR,04,05,8,88,004,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020501088800601,1. RURAL,2. AFAR,05,01,8,88,006,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020502088800303,1. RURAL,2. AFAR,05,02,8,88,003,03,1. Farming,,,,1. YES,10,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+020502088801101,1. RURAL,2. AFAR,05,02,8,88,011,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020503010100101,2. URBAN,2. AFAR,05,03,1,1,001,01,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,
+020504088800505,1. RURAL,2. AFAR,05,04,8,88,005,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020504088801102,1. RURAL,2. AFAR,05,04,8,88,011,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+020601010100306,2. URBAN,2. AFAR,06,01,1,1,003,06,4. Small-Scale Trade & Service Provision,10. Civil Service,,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+020601010100330,2. URBAN,2. AFAR,06,01,1,1,003,30,4. Small-Scale Trade & Service Provision,10. Civil Service,,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+030103088803101,1. RURAL,3. AMHARA,01,03,8,88,031,01,1. Farming,,,,1. YES,20,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,,,,1. YES,68,71
+030106088801805,1. RURAL,3. AMHARA,01,06,8,88,018,05,1. Farming,,,,1. YES,10,2. Urban Centres,11. Other (Specify),,Yeken sira,2. NO,,,,,2. NO,,
+030202088802410,1. RURAL,3. AMHARA,02,02,8,88,024,10,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,2,2. Urban Centres,11. Other (Specify),,Yeken Sira Lemesirat,2. NO,,,,,2. NO,,
+030206010100105,2. URBAN,3. AMHARA,02,06,1,1,001,05,1. Farming,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,20,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+030206088800908,1. RURAL,3. AMHARA,02,06,8,88,009,08,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,11. Other (Specify),9. Professional Occupations,yeiken  sera,2. NO,,,,,2. NO,,
+030209088803514,1. RURAL,3. AMHARA,02,09,8,88,035,14,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,20,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yeken Sira Lemesirat,2. NO,,,,,2. NO,,
+030214020100104,2. URBAN,3. AMHARA,02,14,2,1,001,04,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,20,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,1. YES,2,0
+030303088800803,1. RURAL,3. AMHARA,03,03,8,88,008,03,1. Farming,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,5,2. Urban Centres,11. Other (Specify),,Ye  Gulebet  Sera,2. NO,,,,,2. NO,,
+030307088802601,1. RURAL,3. AMHARA,03,07,8,88,026,01,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,5,2. Urban Centres,11. Other (Specify),,Ye  Gulebet  Sera,2. NO,,,,,2. NO,,
+030309010100310,2. URBAN,3. AMHARA,03,09,1,1,003,10,4. Small-Scale Trade & Service Provision,10. Civil Service,1. Farming,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yegulbet sira,2. NO,,
+030312088800504,1. RURAL,3. AMHARA,03,12,8,88,005,04,1. Farming,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,1. YES,3,2. Urban Centres,11. Other (Specify),,yegulebet Sera,2. NO,,,,,2. NO,,
+030401088801512,1. RURAL,3. AMHARA,04,01,8,88,015,12,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+030404088801907,1. RURAL,3. AMHARA,04,04,8,88,019,07,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,5,3. Outside Ethiopia,9. Professional Occupations,10. Civil Service,,2. NO,,,,,2. NO,,
+030409010100102,2. URBAN,3. AMHARA,04,09,1,1,001,02,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,15,3. Outside Ethiopia,11. Other (Specify),,legileseb teketiro lemesrat,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,1,1
+030409088800307,1. RURAL,3. AMHARA,04,09,8,88,003,07,1. Farming,,,,1. YES,5,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+030412088800503,1. RURAL,3. AMHARA,04,12,8,88,005,03,1. Farming,,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yebet wust sira,2. NO,,,,,2. NO,,
+030416088801301,1. RURAL,3. AMHARA,04,16,8,88,013,01,1. Farming,,,,1. YES,3,3. Outside Ethiopia,11. Other (Specify),,Yebet wust sira,2. NO,,,,,2. NO,,
+030421010100402,2. URBAN,3. AMHARA,04,21,1,1,004,02,1. Farming,10. Civil Service,,,1. YES,10,3. Outside Ethiopia,11. Other (Specify),,bebt westsera,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,1,20
+030505088800505,1. RURAL,3. AMHARA,05,05,8,88,005,05,1. Farming,"5. Beer Brewing, Kachasu","6. Handicraft Production, Small-Scale Industry",,1. YES,12,2. Urban Centres,9. Professional Occupations,1. Farming,,2. NO,,,,,2. NO,,
+030512088800206,1. RURAL,3. AMHARA,05,12,8,88,002,06,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,,,,1. YES,5,5
+030519088801304,1. RURAL,3. AMHARA,05,19,8,88,013,04,1. Farming,"3. Firewood, Charcoal Selling","6. Handicraft Production, Small-Scale Industry",,1. YES,25,2. Urban Centres,1. Farming,9. Professional Occupations,,1. YES,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,
+030526010100201,2. URBAN,3. AMHARA,05,26,1,1,002,01,4. Small-Scale Trade & Service Provision,10. Civil Service,"5. Beer Brewing, Kachasu",,1. YES,1,2. Urban Centres,9. Professional Occupations,"6. Handicraft Production, Small-Scale Industry",,1. YES,1. Rural Areas,9. Professional Occupations,"5. Beer Brewing, Kachasu",,1. YES,3,5
+030602088802210,1. RURAL,3. AMHARA,06,02,8,88,022,10,1. Farming,"5. Beer Brewing, Kachasu",,,1. YES,20,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+030606088800202,1. RURAL,3. AMHARA,06,06,8,88,002,02,1. Farming,"3. Firewood, Charcoal Selling",4. Small-Scale Trade & Service Provision,,1. YES,30,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,,,,1. YES,1,1
+030610010100110,2. URBAN,3. AMHARA,06,10,1,1,001,10,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,1,2. Urban Centres,1. Farming,"6. Handicraft Production, Small-Scale Industry",,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,2,2
+030610088800708,1. RURAL,3. AMHARA,06,10,8,88,007,08,1. Farming,"3. Firewood, Charcoal Selling","5. Beer Brewing, Kachasu",,1. YES,40,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,,,,2. NO,,
+030614088801003,1. RURAL,3. AMHARA,06,14,8,88,010,03,1. Farming,,,,1. YES,10,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+030616010100207,2. URBAN,3. AMHARA,06,16,1,1,002,07,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu","6. Handicraft Production, Small-Scale Industry",,1. YES,2,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry","5. Beer Brewing, Kachasu",,1. YES,1. Rural Areas,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,5,2
+030701088800919,1. RURAL,3. AMHARA,07,01,8,88,009,19,1. Farming,2. Fishing,4. Small-Scale Trade & Service Provision,,1. YES,10,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,,,,1. YES,2,5
+030703088802911,1. RURAL,3. AMHARA,07,03,8,88,029,11,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,2. NO,,,,,2. NO,,
+030706010100103,2. URBAN,3. AMHARA,07,06,1,1,001,03,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu","6. Handicraft Production, Small-Scale Industry",,1. YES,3,2. Urban Centres,4. Small-Scale Trade & Service Provision,1. Farming,,2. NO,,,,,1. YES,30,35
+030707088800708,1. RURAL,3. AMHARA,07,07,8,88,007,08,1. Farming,,,,1. YES,10,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+030710088801809,1. RURAL,3. AMHARA,07,10,8,88,018,09,1. Farming,,,,1. YES,5,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,1. YES,5,50
+030714010100520,2. URBAN,3. AMHARA,07,14,1,1,005,20,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,15,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,38,35
+030803030100101,2. URBAN,3. AMHARA,08,03,3,1,001,01,1. Farming,4. Small-Scale Trade & Service Provision,11. Other (Specify),labour,1. YES,20,2. Urban Centres,1. Farming,11. Other (Specify),labour,2. NO,,,,,2. NO,,
+030803088802708,1. RURAL,3. AMHARA,08,03,8,88,027,08,1. Farming,,,,1. YES,2,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+030808088800201,1. RURAL,3. AMHARA,08,08,8,88,002,01,1. Farming,,,,1. YES,23,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+030902088800605,1. RURAL,3. AMHARA,09,02,8,88,006,05,1. Farming,,,,1. YES,10,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+030906088802103,1. RURAL,3. AMHARA,09,06,8,88,021,03,1. Farming,"5. Beer Brewing, Kachasu",9. Professional Occupations,,1. YES,1,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+030910010100304,2. URBAN,3. AMHARA,09,10,1,1,003,04,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,,1. YES,15,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,11. Other (Specify),,Yekensira,2. NO,,
+031002088801007,1. RURAL,3. AMHARA,10,02,8,88,010,07,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+031004088801803,1. RURAL,3. AMHARA,10,04,8,88,018,03,1. Farming,"3. Firewood, Charcoal Selling",10. Civil Service,,1. YES,25,3. Outside Ethiopia,9. Professional Occupations,"3. Firewood, Charcoal Selling",,2. NO,,,,,2. NO,,
+031007010100107,2. URBAN,3. AMHARA,10,07,1,1,001,07,4. Small-Scale Trade & Service Provision,11. Other (Specify),10. Civil Service,yken sertgha,1. YES,20,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,8. Large-Scale Commercial Industry,,,1. YES,1,2
+031101088800314,1. RURAL,3. AMHARA,11,01,8,88,003,14,1. Farming,,,,1. YES,5,2. Urban Centres,10. Civil Service,,,2. NO,,,,,2. NO,,
+031101088800715,1. RURAL,3. AMHARA,11,01,8,88,007,15,1. Farming,"3. Firewood, Charcoal Selling","5. Beer Brewing, Kachasu",,1. YES,10,2. Urban Centres,9. Professional Occupations,11. Other (Specify),Yeken Sera,2. NO,,,,,2. NO,,
+031105010500201,2. URBAN,3. AMHARA,11,05,1,5,002,01,11. Other (Specify),4. Small-Scale Trade & Service Provision,10. Civil Service,Yegulbet Sira,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,Yetgegnewn  Sira Lemesrat,1. YES,1. Rural Areas,11. Other (Specify),,Yeken Sira,1. YES,3,2
+031201088800105,1. RURAL,3. AMHARA,12,01,8,88,001,05,1. Farming,,,,1. YES,1,3. Outside Ethiopia,11. Other (Specify),,mangnawmnm sira,2. NO,,,,,2. NO,,
+031201088800502,1. RURAL,3. AMHARA,12,01,8,88,005,02,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,4,3. Outside Ethiopia,11. Other (Specify),,yegulbet sera,2. NO,,,,,2. NO,,
+031301088800101,1. RURAL,3. AMHARA,13,01,8,88,001,01,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,2. NO,,,,,,2. NO,,,,,2. NO,,
+031301088800401,1. RURAL,3. AMHARA,13,01,8,88,004,01,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,2. Urban Centres,10. Civil Service,,,2. NO,,,,,2. NO,,
+031303010300223,2. URBAN,3. AMHARA,13,03,1,3,002,23,11. Other (Specify),10. Civil Service,4. Small-Scale Trade & Service Provision,Tureta,1. YES,25,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,67,25
+031401088800203,1. RURAL,3. AMHARA,14,01,8,88,002,03,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,15,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+031401088800709,1. RURAL,3. AMHARA,14,01,8,88,007,09,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,1. YES,9,8
+031405010100309,2. URBAN,3. AMHARA,14,05,1,1,003,09,10. Civil Service,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,Yebyet Serategenete,1. YES,5,3
+031503088800107,1. RURAL,3. AMHARA,15,03,8,88,001,07,1. Farming,,,,1. YES,5,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+031506010100103,2. URBAN,3. AMHARA,15,06,1,1,001,03,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",1. Farming,,1. YES,10,1. Rural Areas,1. Farming,11. Other (Specify),Yekene Sera,1. YES,1. Rural Areas,11. Other (Specify),9. Professional Occupations,Yekene sera,1. YES,5,3
+031506088800509,1. RURAL,3. AMHARA,15,06,8,88,005,09,1. Farming,"5. Beer Brewing, Kachasu",,,1. YES,8,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+031511088801109,1. RURAL,3. AMHARA,15,11,8,88,011,09,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,15,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+031603088801008,1. RURAL,3. AMHARA,16,03,8,88,010,08,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,5,2. Urban Centres,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+031604088800605,1. RURAL,3. AMHARA,16,04,8,88,006,05,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+031605010100105,2. URBAN,3. AMHARA,16,05,1,1,001,05,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,10,3
+040116010100105,2. URBAN,4. OROMIA,01,16,1,1,001,05,4. Small-Scale Trade & Service Provision,,,,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,2. NO,,
+040203088800403,1. RURAL,4. OROMIA,02,03,8,88,004,03,1. Farming,,,,1. YES,3,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+040212088800506,1. RURAL,4. OROMIA,02,12,8,88,005,06,1. Farming,,,,1. YES,5,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+040302010100105,2. URBAN,4. OROMIA,03,02,1,1,001,05,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,1. Farming,,2. NO,,
+040302088801201,1. RURAL,4. OROMIA,03,02,8,88,012,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+040310088800903,1. RURAL,4. OROMIA,03,10,8,88,009,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+040403088803808,1. RURAL,4. OROMIA,04,03,8,88,038,08,1. Farming,,,,1. YES,2,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+040409088801903,1. RURAL,4. OROMIA,04,09,8,88,019,03,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+040416088800808,1. RURAL,4. OROMIA,04,16,8,88,008,08,1. Farming,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,2. NO,,,,,2. NO,,
+040417010100207,2. URBAN,4. OROMIA,04,17,1,1,002,07,10. Civil Service,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,2. NO,,,,,,2. NO,,,,,1. YES,5,2
+040502088800607,1. RURAL,4. OROMIA,05,02,8,88,006,07,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+040511088800604,1. RURAL,4. OROMIA,05,11,8,88,006,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+040521020100101,2. URBAN,4. OROMIA,05,21,2,1,001,01,1. Farming,"5. Beer Brewing, Kachasu",,,1. YES,30,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+040601088802404,1. RURAL,4. OROMIA,06,01,8,88,024,04,1. Farming,,,,1. YES,5,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+040606088801505,1. RURAL,4. OROMIA,06,06,8,88,015,05,1. Farming,,,,1. YES,2,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+040702030100113,2. URBAN,4. OROMIA,07,02,3,1,001,13,11. Other (Specify),,,Yeken Sira,1. YES,10,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,11. Other (Specify),,Yeken Sira,2. NO,,
+040807010100204,2. URBAN,4. OROMIA,08,07,1,1,002,04,4. Small-Scale Trade & Service Provision,,,,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,Yegulebete Sera,1. YES,1. Rural Areas,11. Other (Specify),,Yekene Sera,2. NO,,
+040903010100103,2. URBAN,4. OROMIA,09,03,1,1,001,03,9. Professional Occupations,,,,1. YES,3,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+040903088802905,1. RURAL,4. OROMIA,09,03,8,88,029,05,1. Farming,9. Professional Occupations,10. Civil Service,,1. YES,2,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+040909088802804,1. RURAL,4. OROMIA,09,09,8,88,028,04,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+040913088802102,1. RURAL,4. OROMIA,09,13,8,88,021,02,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,25,2. Urban Centres,1. Farming,,,2. NO,,,,,2. NO,,
+041001088801403,1. RURAL,4. OROMIA,10,01,8,88,014,03,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,20,1. Rural Areas,11. Other (Specify),,Yegulbet sira,2. NO,,,,,2. NO,,
+041008088801110,1. RURAL,4. OROMIA,10,08,8,88,011,10,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,2. Urban Centres,9. Professional Occupations,11. Other (Specify),yeken sira,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041009010100207,2. URBAN,4. OROMIA,10,09,1,1,002,07,1. Farming,,,,1. YES,1,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+041013088801410,1. RURAL,4. OROMIA,10,13,8,88,014,10,1. Farming,,,,1. YES,2,1. Rural Areas,11. Other (Specify),,yegulbat sera,2. NO,,,,,2. NO,,
+041109088800302,1. RURAL,4. OROMIA,11,09,8,88,003,02,1. Farming,,,,1. YES,10,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+041112010100108,2. URBAN,4. OROMIA,11,12,1,1,001,08,9. Professional Occupations,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,1. YES,12,3. Outside Ethiopia,9. Professional Occupations,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,30,10
+041117088800104,1. RURAL,4. OROMIA,11,17,8,88,001,04,11. Other (Specify),,,bete ensisat marbat,1. YES,1,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+041207088800703,1. RURAL,4. OROMIA,12,07,8,88,007,03,1. Farming,,,,1. YES,15,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+041212088800904,1. RURAL,4. OROMIA,12,12,8,88,009,04,1. Farming,,,,1. YES,10,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+041303088803505,1. RURAL,4. OROMIA,13,03,8,88,035,05,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,50,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+041310088801505,1. RURAL,4. OROMIA,13,10,8,88,015,05,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,11. Other (Specify),,yegulbet sera,2. NO,,,,,2. NO,,
+041401088802208,1. RURAL,4. OROMIA,14,01,8,88,022,08,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041402010100102,2. URBAN,4. OROMIA,14,02,1,1,001,02,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,10,2. Urban Centres,11. Other (Specify),,yeken sira,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+041407088800512,1. RURAL,4. OROMIA,14,07,8,88,005,12,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041502088800405,1. RURAL,4. OROMIA,15,02,8,88,004,05,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+041506088800605,1. RURAL,4. OROMIA,15,06,8,88,006,05,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041602020100103,2. URBAN,4. OROMIA,16,02,2,1,001,03,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,10,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+041602088800902,1. RURAL,4. OROMIA,16,02,8,88,009,02,1. Farming,,,,1. YES,20,2. Urban Centres,11. Other (Specify),,ye kan sira,2. NO,,,,,1. YES,5,8
+041606088800702,1. RURAL,4. OROMIA,16,06,8,88,007,02,1. Farming,"5. Beer Brewing, Kachasu",10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,1. YES,5,0
+041701088800105,1. RURAL,4. OROMIA,17,01,8,88,001,05,1. Farming,9. Professional Occupations,,,1. YES,1,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041704088803702,1. RURAL,4. OROMIA,17,04,8,88,037,02,1. Farming,9. Professional Occupations,,,1. YES,1,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041709088800509,1. RURAL,4. OROMIA,17,09,8,88,005,09,1. Farming,9. Professional Occupations,,,1. YES,1,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+041801088800702,1. RURAL,4. OROMIA,18,01,8,88,007,02,1. Farming,,,,1. YES,30,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",,,1. YES,2. Urban Centres,1. Farming,,,2. NO,,
+041803010100206,2. URBAN,4. OROMIA,18,03,1,1,002,06,1. Farming,"3. Firewood, Charcoal Selling","5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,
+041805088802106,1. RURAL,4. OROMIA,18,05,8,88,021,06,1. Farming,,,,1. YES,1,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,2. Urban Centres,1. Farming,,,2. NO,,
+041907088801302,1. RURAL,4. OROMIA,19,07,8,88,013,02,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,20,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+041911088801308,1. RURAL,4. OROMIA,19,11,8,88,013,08,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,2. NO,,,,,,2. NO,,,,,2. NO,,
+042002088802503,1. RURAL,4. OROMIA,20,02,8,88,025,03,1. Farming,,,,1. YES,2,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+042007088801902,1. RURAL,4. OROMIA,20,07,8,88,019,02,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+042101010101005,2. URBAN,4. OROMIA,21,01,1,1,010,05,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,Ken Sera,2. NO,,
+042101010501435,2. URBAN,4. OROMIA,21,01,1,5,014,35,10. Civil Service,,,,1. YES,10,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,11. Other (Specify),,Yekene sera,2. NO,,
+042323010101103,2. URBAN,4. OROMIA,23,23,1,1,011,03,4. Small-Scale Trade & Service Provision,,,,1. YES,1,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,8. Large-Scale Commercial Industry,,,1. YES,1,1
+042424010100685,2. URBAN,4. OROMIA,24,24,1,1,006,85,11. Other (Specify),4. Small-Scale Trade & Service Provision,,Negade,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,10,20
+042828010100624,2. URBAN,4. OROMIA,28,28,1,1,006,24,4. Small-Scale Trade & Service Provision,10. Civil Service,,,1. YES,1,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,10,5
+043030010100345,2. URBAN,4. OROMIA,30,30,1,1,003,45,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,8. Large-Scale Commercial Industry,9. Professional Occupations,,1. YES,10,10
+043131010100723,2. URBAN,4. OROMIA,31,31,1,1,007,23,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yqansira,1. YES,15,5
+043535010100252,2. URBAN,4. OROMIA,35,35,1,1,002,52,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,15,10
+050102010100102,2. URBAN,5. SOMALI,01,02,1,1,001,02,4. Small-Scale Trade & Service Provision,1. Farming,,,1. YES,20,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+050103088801103,1. RURAL,5. SOMALI,01,03,8,88,011,03,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+050109088800301,1. RURAL,5. SOMALI,01,09,8,88,003,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050202088801303,1. RURAL,5. SOMALI,02,02,8,88,013,03,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+050205030100101,2. URBAN,5. SOMALI,02,05,3,1,001,01,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050205088802405,1. RURAL,5. SOMALI,02,05,8,88,024,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050206088801407,1. RURAL,5. SOMALI,02,06,8,88,014,07,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050207088800806,1. RURAL,5. SOMALI,02,07,8,88,008,06,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050212010100806,2. URBAN,5. SOMALI,02,12,1,1,008,06,9. Professional Occupations,,,,1. YES,3,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+050212010101601,2. URBAN,5. SOMALI,02,12,1,1,016,01,4. Small-Scale Trade & Service Provision,,,,1. YES,100,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+050212010101923,2. URBAN,5. SOMALI,02,12,1,1,019,23,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,1. YES,2,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,7. Transport,,1. YES,3,2
+050212010102805,2. URBAN,5. SOMALI,02,12,1,1,028,05,4. Small-Scale Trade & Service Provision,9. Professional Occupations,11. Other (Specify),yeqen sira,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+050213088801502,1. RURAL,5. SOMALI,02,13,8,88,015,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050301088800706,2. URBAN,5. SOMALI,03,01,8,88,007,06,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050303088800907,2. URBAN,5. SOMALI,03,03,8,88,009,07,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050304088801205,2. URBAN,5. SOMALI,03,04,8,88,012,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050309088800903,2. URBAN,5. SOMALI,03,09,8,88,009,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050310010100201,2. URBAN,5. SOMALI,03,10,1,1,002,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+050312010101002,2. URBAN,5. SOMALI,03,12,1,1,010,02,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050405088800906,2. URBAN,5. SOMALI,04,05,8,88,009,06,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050405088801501,2. URBAN,5. SOMALI,04,05,8,88,015,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050407010100404,2. URBAN,5. SOMALI,04,07,1,1,004,04,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+050408088800501,2. URBAN,5. SOMALI,04,08,8,88,005,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050502088800603,2. URBAN,5. SOMALI,05,02,8,88,006,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050506088800603,2. URBAN,5. SOMALI,05,06,8,88,006,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050511010100602,2. URBAN,5. SOMALI,05,11,1,1,006,02,4. Small-Scale Trade & Service Provision,9. Professional Occupations,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+050602088800702,2. URBAN,5. SOMALI,06,02,8,88,007,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050604088800604,2. URBAN,5. SOMALI,06,04,8,88,006,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050605020100107,2. URBAN,5. SOMALI,06,05,2,1,001,07,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050606088800801,2. URBAN,5. SOMALI,06,06,8,88,008,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050610088800304,2. URBAN,5. SOMALI,06,10,8,88,003,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050611010100206,2. URBAN,5. SOMALI,06,11,1,1,002,06,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+050611010101009,2. URBAN,5. SOMALI,06,11,1,1,010,09,4. Small-Scale Trade & Service Provision,7. Transport,,,2. NO,,,,,,1. YES,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,2. NO,,
+050701088801207,2. URBAN,5. SOMALI,07,01,8,88,012,07,1. Farming,,,,1. YES,35,1. Rural Areas,11. Other (Specify),,water,2. NO,,,,,2. NO,,
+050703088800901,2. URBAN,5. SOMALI,07,03,8,88,009,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050704088801101,2. URBAN,5. SOMALI,07,04,8,88,011,01,1. Farming,,,,1. YES,25,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+050706010100201,2. URBAN,5. SOMALI,07,06,1,1,002,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050707088800603,2. URBAN,5. SOMALI,07,07,8,88,006,03,1. Farming,,,,1. YES,20,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+050801010100308,2. URBAN,5. SOMALI,08,01,1,1,003,08,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+050802088801803,2. URBAN,5. SOMALI,08,02,8,88,018,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050805088800704,2. URBAN,5. SOMALI,08,05,8,88,007,04,1. Farming,,,,1. YES,30,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+050807088800305,2. URBAN,5. SOMALI,08,07,8,88,003,05,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+050808088801601,2. URBAN,5. SOMALI,08,08,8,88,016,01,1. Farming,,,,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,,,,2. NO,,
+050901010100102,2. URBAN,5. SOMALI,09,01,1,1,001,02,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,3,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,
+050902088801202,1. RURAL,5. SOMALI,09,02,8,88,012,02,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,40,3. Outside Ethiopia,1. Farming,9. Professional Occupations,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+050905088800202,1. RURAL,5. SOMALI,09,05,8,88,002,02,1. Farming,,,,1. YES,20,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+050906010100116,2. URBAN,5. SOMALI,09,06,1,1,001,16,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,5,2. Urban Centres,10. Civil Service,9. Professional Occupations,,1. YES,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,
+050907088800903,1. RURAL,5. SOMALI,09,07,8,88,009,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+051003088800201,2. URBAN,5. SOMALI,10,03,8,88,002,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+051004088801303,2. URBAN,5. SOMALI,10,04,8,88,013,03,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+051101088801203,2. URBAN,5. SOMALI,11,01,8,88,012,03,"3. Firewood, Charcoal Selling",1. Farming,9. Professional Occupations,,2. NO,,,,,,2. NO,,,,,2. NO,,
+060101088800403,1. RURAL,6. BENISHANGUL GUMUZ,01,01,8,88,004,03,1. Farming,11. Other (Specify),,weriqi qufaro,2. NO,,,,,,2. NO,,,,,2. NO,,
+060103088801802,1. RURAL,6. BENISHANGUL GUMUZ,01,03,8,88,018,02,1. Farming,,,,1. YES,10,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+060103088804602,1. RURAL,6. BENISHANGUL GUMUZ,01,03,8,88,046,02,1. Farming,,,,1. YES,15,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+060103088806701,1. RURAL,6. BENISHANGUL GUMUZ,01,03,8,88,067,01,1. Farming,,,,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,yegulbet sira,2. NO,,,,,1. YES,5,0
+060104010100103,2. URBAN,6. BENISHANGUL GUMUZ,01,04,1,1,001,03,1. Farming,11. Other (Specify),"3. Firewood, Charcoal Selling",madin(werik)kufaro,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,11. Other (Specify),madin(werik kufaro),2. NO,,
+060104088800802,1. RURAL,6. BENISHANGUL GUMUZ,01,04,8,88,008,02,1. Farming,11. Other (Specify),,Weriqi sira,2. NO,,,,,,2. NO,,,,,2. NO,,
+060105088801701,1. RURAL,6. BENISHANGUL GUMUZ,01,05,8,88,017,01,1. Farming,,,,1. YES,20,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+060105088803201,1. RURAL,6. BENISHANGUL GUMUZ,01,05,8,88,032,01,1. Farming,,,,1. YES,1,1. Rural Areas,11. Other (Specify),,yegulbet sira,1. YES,2. Urban Centres,9. Professional Occupations,,,2. NO,,
+060107088800402,1. RURAL,6. BENISHANGUL GUMUZ,01,07,8,88,004,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+060108010100106,2. URBAN,6. BENISHANGUL GUMUZ,01,08,1,1,001,06,4. Small-Scale Trade & Service Provision,10. Civil Service,"3. Firewood, Charcoal Selling",,1. YES,30,2. Urban Centres,11. Other (Specify),,ye gulbet sira filega,1. YES,1. Rural Areas,11. Other (Specify),,ye gulbet sira filega,2. NO,,
+060108010100205,2. URBAN,6. BENISHANGUL GUMUZ,01,08,1,1,002,05,9. Professional Occupations,"5. Beer Brewing, Kachasu","3. Firewood, Charcoal Selling",,1. YES,1,1. Rural Areas,11. Other (Specify),,ye gulbet sira,1. YES,1. Rural Areas,11. Other (Specify),,ye gulbet sira,2. NO,,
+060108010100319,2. URBAN,6. BENISHANGUL GUMUZ,01,08,1,1,003,19,10. Civil Service,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,3,2. Urban Centres,11. Other (Specify),,ye ken sira,1. YES,1. Rural Areas,11. Other (Specify),,ye ken sira,2. NO,,
+060108010100415,2. URBAN,6. BENISHANGUL GUMUZ,01,08,1,1,004,15,10. Civil Service,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,5,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,40,60
+060201010100103,2. URBAN,6. BENISHANGUL GUMUZ,02,01,1,1,001,03,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,2. NO,,
+060201088801903,1. RURAL,6. BENISHANGUL GUMUZ,02,01,8,88,019,03,1. Farming,,,,1. YES,75,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060203010100106,2. URBAN,6. BENISHANGUL GUMUZ,02,03,1,1,001,06,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",10. Civil Service,,1. YES,5,2. Urban Centres,10. Civil Service,,,2. NO,,,,,1. YES,20,30
+060203088800704,1. RURAL,6. BENISHANGUL GUMUZ,02,03,8,88,007,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+060203088802004,1. RURAL,6. BENISHANGUL GUMUZ,02,03,8,88,020,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+060204020100105,2. URBAN,6. BENISHANGUL GUMUZ,02,04,2,1,001,05,1. Farming,,,,1. YES,2,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+060205040100108,2. URBAN,6. BENISHANGUL GUMUZ,02,05,4,1,001,08,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,1. YES,23,15
+060205088801701,1. RURAL,6. BENISHANGUL GUMUZ,02,05,8,88,017,01,1. Farming,,,,1. YES,3,2. Urban Centres,10. Civil Service,1. Farming,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060206020100103,2. URBAN,6. BENISHANGUL GUMUZ,02,06,2,1,001,03,9. Professional Occupations,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+060206088800203,1. RURAL,6. BENISHANGUL GUMUZ,02,06,8,88,002,03,1. Farming,,,,1. YES,10,2. Urban Centres,11. Other (Specify),,Yegulbet sira,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060206088800904,1. RURAL,6. BENISHANGUL GUMUZ,02,06,8,88,009,04,1. Farming,,,,1. YES,1,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060207030100102,2. URBAN,6. BENISHANGUL GUMUZ,02,07,3,1,001,02,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060207088801401,1. RURAL,6. BENISHANGUL GUMUZ,02,07,8,88,014,01,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+060302010100105,2. URBAN,6. BENISHANGUL GUMUZ,03,02,1,1,001,05,1. Farming,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,20,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,2. Urban Centres,1. Farming,,,1. YES,30,10
+060305010100106,2. URBAN,6. BENISHANGUL GUMUZ,03,05,1,1,001,06,1. Farming,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,15,1. Rural Areas,1. Farming,,,1. YES,2. Urban Centres,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,10,5
+060401088802401,1. RURAL,6. BENISHANGUL GUMUZ,04,01,8,88,024,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+070104088801204,1. RURAL,7. SNNP,01,04,8,88,012,04,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,2,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+070108088800802,1. RURAL,7. SNNP,01,08,8,88,008,02,1. Farming,"5. Beer Brewing, Kachasu",9. Professional Occupations,,1. YES,33,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+070110010100205,2. URBAN,7. SNNP,01,10,1,1,002,05,4. Small-Scale Trade & Service Provision,,,,1. YES,3,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,60,40
+070112088800907,1. RURAL,7. SNNP,01,12,8,88,009,07,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+070205030100103,2. URBAN,7. SNNP,02,05,3,1,001,03,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,25,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+070205088801202,1. RURAL,7. SNNP,02,05,8,88,012,02,1. Farming,,,,1. YES,5,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+070210088801703,1. RURAL,7. SNNP,02,10,8,88,017,03,1. Farming,,,,1. YES,20,2. Urban Centres,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+070211010100614,2. URBAN,7. SNNP,02,11,1,1,006,14,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,yebet west sera,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,11. Other (Specify),yebet west sera,1. YES,50,30
+070302088800701,1. RURAL,7. SNNP,03,02,8,88,007,01,1. Farming,,,,1. YES,20,2. Urban Centres,1. Farming,,,2. NO,,,,,2. NO,,
+070305088801101,1. RURAL,7. SNNP,03,05,8,88,011,01,1. Farming,,,,1. YES,7,2. Urban Centres,1. Farming,,,2. NO,,,,,2. NO,,
+070309010100307,2. URBAN,7. SNNP,03,09,1,1,003,07,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,25,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,30,15
+070403088802407,1. RURAL,7. SNNP,04,03,8,88,024,07,1. Farming,"3. Firewood, Charcoal Selling",,,1. YES,5,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+070407088801207,1. RURAL,7. SNNP,04,07,8,88,012,07,1. Farming,,,,1. YES,2,2. Urban Centres,11. Other (Specify),,á‹¨áŒ‰áˆá‰ á‰µ áˆµáˆ«,2. NO,,,,,2. NO,,
+070409010100108,2. URBAN,7. SNNP,04,09,1,1,001,08,10. Civil Service,4. Small-Scale Trade & Service Provision,1. Farming,,1. YES,13,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+070410088800810,1. RURAL,7. SNNP,04,10,8,88,008,10,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,10,2. Urban Centres,9. Professional Occupations,11. Other (Specify),Yeken Sera,2. NO,,,,,2. NO,,
+070414088800609,1. RURAL,7. SNNP,04,14,8,88,006,09,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,1,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+070418088801803,1. RURAL,7. SNNP,04,18,8,88,018,03,1. Farming,,,,1. YES,20,2. Urban Centres,11. Other (Specify),,ye Gulbet sra,2. NO,,,,,2. NO,,
+070420010100106,2. URBAN,7. SNNP,04,20,1,1,001,06,10. Civil Service,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,
+070501088800605,1. RURAL,7. SNNP,05,01,8,88,006,05,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,20,1. Rural Areas,1. Farming,11. Other (Specify),ye kene sera,2. NO,,,,,1. YES,5,5
+070503088801401,1. RURAL,7. SNNP,05,03,8,88,014,01,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,11. Other (Specify),,ye kene sera,2. NO,,,,,2. NO,,
+070602088802005,1. RURAL,7. SNNP,06,02,8,88,020,05,1. Farming,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,2. NO,,,,,,2. NO,,,,,1. YES,10,5
+070603010100105,2. URBAN,7. SNNP,06,03,1,1,001,05,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,11,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,50,35
+070606088801009,1. RURAL,7. SNNP,06,06,8,88,010,09,1. Farming,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,35,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+070610088800907,1. RURAL,7. SNNP,06,10,8,88,009,07,1. Farming,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,40,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+070613010100707,2. URBAN,7. SNNP,06,13,1,1,007,07,4. Small-Scale Trade & Service Provision,9. Professional Occupations,7. Transport,,1. YES,45,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,55,45
+070701010100104,2. URBAN,7. SNNP,07,01,1,1,001,04,4. Small-Scale Trade & Service Provision,10. Civil Service,1. Farming,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,10. Civil Service,,2. NO,,
+070702088802709,1. RURAL,7. SNNP,07,02,8,88,027,09,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,1. Farming,,2. NO,,,,,1. YES,10,10
+070706088801507,1. RURAL,7. SNNP,07,06,8,88,015,07,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,2. Urban Centres,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,
+070904030100101,2. URBAN,7. SNNP,09,04,3,1,001,01,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",1. Farming,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,"6. Handicraft Production, Small-Scale Industry",,1. YES,2,1
+070904088801204,1. RURAL,7. SNNP,09,04,8,88,012,04,1. Farming,,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+070909088800504,1. RURAL,7. SNNP,09,09,8,88,005,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+071003088801004,1. RURAL,7. SNNP,10,03,8,88,010,04,1. Farming,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,25,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,1. YES,15,10
+071005020100101,2. URBAN,7. SNNP,10,05,2,1,001,01,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,1. Farming,9. Professional Occupations,,2. NO,,
+071008088801603,1. RURAL,7. SNNP,10,08,8,88,016,03,1. Farming,,,,1. YES,100,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+071013088801005,1. RURAL,7. SNNP,10,13,8,88,010,05,1. Farming,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,1. YES,75,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+071016010100610,2. URBAN,7. SNNP,10,16,1,1,006,10,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,"3. Firewood, Charcoal Selling",,1. YES,5,5
+071104088800912,1. RURAL,7. SNNP,11,04,8,88,009,12,1. Farming,,,,2. NO,,,,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,
+071110010100102,2. URBAN,7. SNNP,11,10,1,1,001,02,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,10,1. Rural Areas,1. Farming,,,2. NO,,,,,1. YES,3,3
+071110088800906,1. RURAL,7. SNNP,11,10,8,88,009,06,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,,,2. NO,,,,,2. NO,,
+071201088801101,1. RURAL,7. SNNP,12,01,8,88,011,01,1. Farming,,,,1. YES,5,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,
+071201088802507,1. RURAL,7. SNNP,12,01,8,88,025,07,1. Farming,,,,1. YES,10,3. Outside Ethiopia,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+071304010100212,2. URBAN,7. SNNP,13,04,1,1,002,12,1. Farming,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,8. Large-Scale Commercial Industry,,,1. YES,49,51
+071308010100210,2. URBAN,7. SNNP,13,08,1,1,002,10,4. Small-Scale Trade & Service Provision,9. Professional Occupations,1. Farming,,1. YES,2,2. Urban Centres,9. Professional Occupations,11. Other (Specify),Yeken Sera,1. YES,1. Rural Areas,9. Professional Occupations,11. Other (Specify),Yeken Sera,2. NO,,
+071501030100102,2. URBAN,7. SNNP,15,01,3,1,001,02,1. Farming,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,2. NO,,
+071502088801308,1. RURAL,7. SNNP,15,02,8,88,013,08,1. Farming,,,,1. YES,1,2. Urban Centres,1. Farming,8. Large-Scale Commercial Industry,,2. NO,,,,,2. NO,,
+071504088803610,1. RURAL,7. SNNP,15,04,8,88,036,10,1. Farming,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,2,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+071601088800404,1. RURAL,7. SNNP,16,01,8,88,004,04,1. Farming,,,,1. YES,16,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+071601088804904,1. RURAL,7. SNNP,16,01,8,88,049,04,1. Farming,,,,1. YES,10,3. Outside Ethiopia,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+071701030100103,2. URBAN,7. SNNP,17,01,3,1,001,03,4. Small-Scale Trade & Service Provision,1. Farming,"5. Beer Brewing, Kachasu",,1. YES,25,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,50,25
+071701088802301,1. RURAL,7. SNNP,17,01,8,88,023,01,1. Farming,"5. Beer Brewing, Kachasu",10. Civil Service,,1. YES,5,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+071704088800902,1. RURAL,7. SNNP,17,04,8,88,009,02,1. Farming,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,10,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+071801088800504,1. RURAL,7. SNNP,18,01,8,88,005,04,1. Farming,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,1. YES,10,2. Urban Centres,11. Other (Specify),9. Professional Occupations,ye gulbet sira,2. NO,,,,,2. NO,,
+071801088801406,1. RURAL,7. SNNP,18,01,8,88,014,06,1. Farming,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,10,2. Urban Centres,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,2. NO,,
+071901088801705,1. RURAL,7. SNNP,19,01,8,88,017,05,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,5,2. Urban Centres,9. Professional Occupations,8. Large-Scale Commercial Industry,,2. NO,,,,,2. NO,,
+071901088803902,1. RURAL,7. SNNP,19,01,8,88,039,02,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,2. NO,,,,,,2. NO,,,,,2. NO,,
+072001088800308,1. RURAL,7. SNNP,20,01,8,88,003,08,1. Farming,,,,1. YES,50,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+072003088802401,1. RURAL,7. SNNP,20,03,8,88,024,01,1. Farming,,,,1. YES,1,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+072005010100203,2. URBAN,7. SNNP,20,05,1,1,002,03,4. Small-Scale Trade & Service Provision,,,,1. YES,1,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,60,40
+120101088801001,1. RURAL,12. GAMBELA,01,01,8,88,010,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120102088800501,1. RURAL,12. GAMBELA,01,02,8,88,005,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120103010100101,2. URBAN,12. GAMBELA,01,03,1,1,001,01,1. Farming,2. Fishing,10. Civil Service,,2. NO,,,,,,2. NO,,,,,1. YES,10,5
+120103010100402,2. URBAN,12. GAMBELA,01,03,1,1,004,02,1. Farming,,,,1. YES,10,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,1. YES,5,3
+120103088800301,1. RURAL,12. GAMBELA,01,03,8,88,003,01,1. Farming,2. Fishing,"5. Beer Brewing, Kachasu",,2. NO,,,,,,2. NO,,,,,2. NO,,
+120105010100102,2. URBAN,12. GAMBELA,01,05,1,1,001,02,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,,,,,1. YES,1. Rural Areas,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,,1. YES,3,2
+120105030100103,2. URBAN,12. GAMBELA,01,05,3,1,001,03,11. Other (Specify),"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,Maden Qufaro,1. YES,20,2. Urban Centres,1. Farming,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,11. Other (Specify),Maden Qufaro(Gold),2. NO,,
+120105088800804,1. RURAL,12. GAMBELA,01,05,8,88,008,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120105088801201,1. RURAL,12. GAMBELA,01,05,8,88,012,01,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,11. Other (Specify),maeden kufaro,1. YES,10,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,11. Other (Specify),maeden kufaro,2. NO,,
+120106010100108,2. URBAN,12. GAMBELA,01,06,1,1,001,08,10. Civil Service,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,Kensera,2. NO,,
+120106010100205,2. URBAN,12. GAMBELA,01,06,1,1,002,05,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,10. Civil Service,,1. YES,90,30
+120106010100215,2. URBAN,12. GAMBELA,01,06,1,1,002,15,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,10. Civil Service,,1. YES,90,30
+120106010100303,2. URBAN,12. GAMBELA,01,06,1,1,003,03,4. Small-Scale Trade & Service Provision,,,,1. YES,20,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,10. Civil Service,,,2. NO,,
+120106010100313,2. URBAN,12. GAMBELA,01,06,1,1,003,13,4. Small-Scale Trade & Service Provision,,,,1. YES,20,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,10. Civil Service,,,2. NO,,
+120106010100323,2. URBAN,12. GAMBELA,01,06,1,1,003,23,4. Small-Scale Trade & Service Provision,,,,1. YES,20,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,10. Civil Service,,,2. NO,,
+120106010100504,2. URBAN,12. GAMBELA,01,06,1,1,005,04,11. Other (Specify),,,yemengeset sera and neged,2. NO,,,,,,1. YES,2. Urban Centres,11. Other (Specify),,Iengid and lemengiset  sera,1. YES,65,35
+120106010100515,2. URBAN,12. GAMBELA,01,06,1,1,005,15,11. Other (Specify),,,yemengeset sera and neged,2. NO,,,,,,1. YES,2. Urban Centres,11. Other (Specify),,Iengid and lemengiset  sera,1. YES,65,35
+120106010100525,2. URBAN,12. GAMBELA,01,06,1,1,005,25,11. Other (Specify),,,yemengeset sera and neged,2. NO,,,,,,1. YES,2. Urban Centres,11. Other (Specify),,Iengid and lemengiset  sera,1. YES,65,35
+120201010100102,2. URBAN,12. GAMBELA,02,01,1,1,001,02,4. Small-Scale Trade & Service Provision,10. Civil Service,"3. Firewood, Charcoal Selling",,1. YES,10,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,
+120201088800501,1. RURAL,12. GAMBELA,02,01,8,88,005,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120201088802501,1. RURAL,12. GAMBELA,02,01,8,88,025,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120202088802101,1. RURAL,12. GAMBELA,02,02,8,88,021,01,1. Farming,2. Fishing,,,2. NO,,,,,,1. YES,2. Urban Centres,1. Farming,10. Civil Service,,2. NO,,
+120203010100102,2. URBAN,12. GAMBELA,02,03,1,1,001,02,1. Farming,,,,1. YES,10,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,10. Civil Service,,,2. NO,,
+120205010100101,2. URBAN,12. GAMBELA,02,05,1,1,001,01,1. Farming,,,,2. NO,,,,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+120301010100101,2. URBAN,12. GAMBELA,03,01,1,1,001,01,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,60,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,11. Other (Specify),4. Small-Scale Trade & Service Provision,lebure work,2. NO,,
+120301010100113,2. URBAN,12. GAMBELA,03,01,1,1,001,13,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,60,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,11. Other (Specify),4. Small-Scale Trade & Service Provision,lebure work,2. NO,,
+120301010100211,2. URBAN,12. GAMBELA,03,01,1,1,002,11,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,10,1. Rural Areas,1. Farming,,,1. YES,1. Rural Areas,1. Farming,4. Small-Scale Trade & Service Provision,,1. YES,5,0
+120301088800101,1. RURAL,12. GAMBELA,03,01,8,88,001,01,1. Farming,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120301088800201,1. RURAL,12. GAMBELA,03,01,8,88,002,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120301088800404,1. RURAL,12. GAMBELA,03,01,8,88,004,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120301088800707,1. RURAL,12. GAMBELA,03,01,8,88,007,07,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120301088801001,1. RURAL,12. GAMBELA,03,01,8,88,010,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120302088800703,1. RURAL,12. GAMBELA,03,02,8,88,007,03,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+120302088800803,1. RURAL,12. GAMBELA,03,02,8,88,008,03,1. Farming,,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+120302088801002,1. RURAL,12. GAMBELA,03,02,8,88,010,02,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120302088801501,1. RURAL,12. GAMBELA,03,02,8,88,015,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120401010100108,2. URBAN,12. GAMBELA,04,01,1,1,001,08,1. Farming,,,,1. YES,15,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,10. Civil Service,,,2. NO,,
+120401088800504,1. RURAL,12. GAMBELA,04,01,8,88,005,04,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+120401088801403,1. RURAL,12. GAMBELA,04,01,8,88,014,03,1. Farming,,,,1. YES,10,2. Urban Centres,2. Fishing,,,2. NO,,,,,2. NO,,
+130101088800107,1. RURAL,13. HARAR,01,01,8,88,001,07,1. Farming,,,,2. NO,,,,,,1. YES,2. Urban Centres,1. Farming,,,1. YES,99,12
+130101088800202,1. RURAL,13. HARAR,01,01,8,88,002,02,1. Farming,,,,1. YES,15,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+130101088800208,1. RURAL,13. HARAR,01,01,8,88,002,08,1. Farming,,,,1. YES,15,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,2. NO,,
+130101088800309,1. RURAL,13. HARAR,01,01,8,88,003,09,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+130101088800407,1. RURAL,13. HARAR,01,01,8,88,004,07,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,2,1. Rural Areas,11. Other (Specify),,yegulbt sera,1. YES,2. Urban Centres,1. Farming,,,1. YES,5,2
+130101088800503,1. RURAL,13. HARAR,01,01,8,88,005,03,1. Farming,4. Small-Scale Trade & Service Provision,,,1. YES,1,3. Outside Ethiopia,9. Professional Occupations,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+130101088800702,1. RURAL,13. HARAR,01,01,8,88,007,02,1. Farming,,,,1. YES,1,3. Outside Ethiopia,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+130102088800104,1. RURAL,13. HARAR,01,02,8,88,001,04,1. Farming,,,,1. YES,20,2. Urban Centres,10. Civil Service,,,2. NO,,,,,1. YES,50,50
+130102088800111,1. RURAL,13. HARAR,01,02,8,88,001,11,1. Farming,,,,1. YES,20,2. Urban Centres,10. Civil Service,,,2. NO,,,,,1. YES,50,50
+130102088800301,1. RURAL,13. HARAR,01,02,8,88,003,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+130102088800408,1. RURAL,13. HARAR,01,02,8,88,004,08,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+130102088800415,1. RURAL,13. HARAR,01,02,8,88,004,15,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+130102088800511,1. RURAL,13. HARAR,01,02,8,88,005,11,1. Farming,,,,1. YES,10,2. Urban Centres,7. Transport,,,2. NO,,,,,2. NO,,
+130102088800608,1. RURAL,13. HARAR,01,02,8,88,006,08,1. Farming,11. Other (Specify),,ngd,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,1. YES,5,2
+130103088800103,1. RURAL,13. HARAR,01,03,8,88,001,03,1. Farming,,,,1. YES,25,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,,,,2. NO,,
+130103088800211,1. RURAL,13. HARAR,01,03,8,88,002,11,1. Farming,,,,1. YES,30,3. Outside Ethiopia,1. Farming,9. Professional Occupations,,2. NO,,,,,2. NO,,
+130103088800305,1. RURAL,13. HARAR,01,03,8,88,003,05,1. Farming,,,,1. YES,2,3. Outside Ethiopia,1. Farming,,,2. NO,,,,,2. NO,,
+130103088800402,1. RURAL,13. HARAR,01,03,8,88,004,02,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,1. Farming,,,2. NO,,
+130104010100101,2. URBAN,13. HARAR,01,04,1,1,001,01,1. Farming,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,25,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,2. Urban Centres,9. Professional Occupations,11. Other (Specify),Yeken Sra,2. NO,,
+130104010100202,2. URBAN,13. HARAR,01,04,1,1,002,02,10. Civil Service,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,3,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130104010100210,2. URBAN,13. HARAR,01,04,1,1,002,10,10. Civil Service,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,2,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130104010100219,2. URBAN,13. HARAR,01,04,1,1,002,19,10. Civil Service,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,3,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130104010100226,2. URBAN,13. HARAR,01,04,1,1,002,26,10. Civil Service,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+130104010100305,2. URBAN,13. HARAR,01,04,1,1,003,05,10. Civil Service,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130104010100312,2. URBAN,13. HARAR,01,04,1,1,003,12,10. Civil Service,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130104010100321,2. URBAN,13. HARAR,01,04,1,1,003,21,10. Civil Service,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,2. Urban Centres,9. Professional Occupations,10. Civil Service,,2. NO,,
+130105010100102,2. URBAN,13. HARAR,01,05,1,1,001,02,4. Small-Scale Trade & Service Provision,10. Civil Service,11. Other (Specify),Ykene sera,1. YES,5,2. Urban Centres,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yken sera,2. NO,,
+130105010100203,2. URBAN,13. HARAR,01,05,1,1,002,03,4. Small-Scale Trade & Service Provision,10. Civil Service,11. Other (Specify),Ykene Sera,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yekene Sera,2. NO,,
+130105010100209,2. URBAN,13. HARAR,01,05,1,1,002,09,4. Small-Scale Trade & Service Provision,10. Civil Service,11. Other (Specify),Ykene sera,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yeken sera,2. NO,,
+130106010100101,2. URBAN,13. HARAR,01,06,1,1,001,01,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yken sera,2. NO,,
+130106010100108,2. URBAN,13. HARAR,01,06,1,1,001,08,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,5,2. Urban Centres,10. Civil Service,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,11. Other (Specify),Yeqn sers,2. NO,,
+130106010100201,2. URBAN,13. HARAR,01,06,1,1,002,01,4. Small-Scale Trade & Service Provision,1. Farming,10. Civil Service,,1. YES,10,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,11. Other (Specify),Leqen sera,2. NO,,
+130106010100208,2. URBAN,13. HARAR,01,06,1,1,002,08,1. Farming,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,10,2. Urban Centres,10. Civil Service,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,
+130106010100304,2. URBAN,13. HARAR,01,06,1,1,003,04,4. Small-Scale Trade & Service Provision,8. Large-Scale Commercial Industry,10. Civil Service,,1. YES,20,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+130107010100103,2. URBAN,13. HARAR,01,07,1,1,001,03,4. Small-Scale Trade & Service Provision,8. Large-Scale Commercial Industry,7. Transport,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+130107010100208,2. URBAN,13. HARAR,01,07,1,1,002,08,10. Civil Service,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,10,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+130107010100305,2. URBAN,13. HARAR,01,07,1,1,003,05,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+130108010100203,2. URBAN,13. HARAR,01,08,1,1,002,03,4. Small-Scale Trade & Service Provision,10. Civil Service,"5. Beer Brewing, Kachasu",,1. YES,2,2. Urban Centres,10. Civil Service,,,1. YES,1. Rural Areas,9. Professional Occupations,,,2. NO,,
+130108010100301,2. URBAN,13. HARAR,01,08,1,1,003,01,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,3,2
+130108010100309,2. URBAN,13. HARAR,01,08,1,1,003,09,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,3,2
+130108010100317,2. URBAN,13. HARAR,01,08,1,1,003,17,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,3,2
+130109010100303,2. URBAN,13. HARAR,01,09,1,1,003,03,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,7. Transport,,2. NO,,
+140101010100114,2. URBAN,14. ADDIS ABABA,01,01,1,1,001,14,"6. Handicraft Production, Small-Scale Industry",4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,30,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,35,65
+140104010100403,2. URBAN,14. ADDIS ABABA,01,04,1,1,004,03,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,1. YES,15,2. Urban Centres,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,2. Urban Centres,10. Civil Service,4. Small-Scale Trade & Service Provision,,1. YES,5,5
+140107010100712,2. URBAN,14. ADDIS ABABA,01,07,1,1,007,12,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,75,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,2. NO,,
+140109010100904,2. URBAN,14. ADDIS ABABA,01,09,1,1,009,04,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,1. YES,2,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,40,60
+140202010200210,2. URBAN,14. ADDIS ABABA,02,02,1,2,002,10,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,20,30
+140205010200504,2. URBAN,14. ADDIS ABABA,02,05,1,2,005,04,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,Daily Work,1. YES,2,98
+140208010200823,2. URBAN,14. ADDIS ABABA,02,08,1,2,008,23,11. Other (Specify),"5. Beer Brewing, Kachasu",,Prostitute/sex worker,1. YES,20,2. Urban Centres,"5. Beer Brewing, Kachasu",4. Small-Scale Trade & Service Provision,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,10,15
+140301010300138,2. URBAN,14. ADDIS ABABA,03,01,1,3,001,38,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,1. YES,15,2. Urban Centres,11. Other (Specify),,Gizawi Sira,1. YES,2. Urban Centres,11. Other (Specify),,Gizawi sira,1. YES,30,65
+140303010300315,2. URBAN,14. ADDIS ABABA,03,03,1,3,003,15,4. Small-Scale Trade & Service Provision,,,,1. YES,10,3. Outside Ethiopia,11. Other (Specify),,Yebet Wist Sira,2. NO,,,,,1. YES,5,7
+140303010300329,2. URBAN,14. ADDIS ABABA,03,03,1,3,003,29,4. Small-Scale Trade & Service Provision,,,,1. YES,10,3. Outside Ethiopia,11. Other (Specify),,Yebet Wist Sira,2. NO,,,,,1. YES,5,7
+140305010300533,2. URBAN,14. ADDIS ABABA,03,05,1,3,005,33,10. Civil Service,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,5,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,28,45
+140307010300706,2. URBAN,14. ADDIS ABABA,03,07,1,3,007,06,4. Small-Scale Trade & Service Provision,11. Other (Specify),,Ygulbet Sira,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),4. Small-Scale Trade & Service Provision,Yegulbet Sira,1. YES,75,25
+140309010300913,2. URBAN,14. ADDIS ABABA,03,09,1,3,009,13,4. Small-Scale Trade & Service Provision,,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yebet Sira,1. YES,1. Rural Areas,11. Other (Specify),,Yeken Sira,1. YES,15,15
+140311010301140,2. URBAN,14. ADDIS ABABA,03,11,1,3,011,40,4. Small-Scale Trade & Service Provision,,,,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,Yegulbet Sira,1. YES,1. Rural Areas,11. Other (Specify),,Yeken Sira,1. YES,10,40
+140313010301371,2. URBAN,14. ADDIS ABABA,03,13,1,3,013,71,4. Small-Scale Trade & Service Provision,,,,1. YES,1,3. Outside Ethiopia,11. Other (Specify),,Yebet Wist Sira,1. YES,1. Rural Areas,11. Other (Specify),,Yeken Sira,1. YES,2,10
+140401010400123,2. URBAN,14. ADDIS ABABA,04,01,1,4,001,23,4. Small-Scale Trade & Service Provision,,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,10,10
+140405010400515,2. URBAN,14. ADDIS ABABA,04,05,1,4,005,15,4. Small-Scale Trade & Service Provision,10. Civil Service,"3. Firewood, Charcoal Selling",,1. YES,10,2. Urban Centres,11. Other (Specify),,Yetegegnewun Sira,2. NO,,,,,1. YES,70,30
+140501010500113,2. URBAN,14. ADDIS ABABA,05,01,1,5,001,13,4. Small-Scale Trade & Service Provision,9. Professional Occupations,10. Civil Service,,2. NO,,,,,,1. YES,2. Urban Centres,11. Other (Specify),,Yetegegnewun Sira,1. YES,30,20
+140504010500449,2. URBAN,14. ADDIS ABABA,05,04,1,5,004,49,4. Small-Scale Trade & Service Provision,,,,1. YES,30,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,25,25
+140509010500925,2. URBAN,14. ADDIS ABABA,05,09,1,5,009,25,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+140602010600224,2. URBAN,14. ADDIS ABABA,06,02,1,6,002,24,4. Small-Scale Trade & Service Provision,11. Other (Specify),9. Professional Occupations,Yegulbet sirA,1. YES,1,3. Outside Ethiopia,11. Other (Specify),9. Professional Occupations,hetevegnewhn sira,1. YES,1. Rural Areas,11. Other (Specify),9. Professional Occupations,Yeken sira,1. YES,65,35
+140606010600617,2. URBAN,14. ADDIS ABABA,06,06,1,6,006,17,4. Small-Scale Trade & Service Provision,9. Professional Occupations,"6. Handicraft Production, Small-Scale Industry",,1. YES,2,3. Outside Ethiopia,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,1. YES,1. Rural Areas,11. Other (Specify),9. Professional Occupations,yegulbet sira,1. YES,56,44
+140701010700106,2. URBAN,14. ADDIS ABABA,07,01,1,7,001,06,8. Large-Scale Commercial Industry,,,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yekdn sira,1. YES,0,50
+140702010700258,2. URBAN,14. ADDIS ABABA,07,02,1,7,002,58,4. Small-Scale Trade & Service Provision,,,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yegulbet sira,1. YES,5,3
+140705010700528,2. URBAN,14. ADDIS ABABA,07,05,1,7,005,28,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,25,60
+140707010700732,2. URBAN,14. ADDIS ABABA,07,07,1,7,007,32,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,1. YES,2,2. Urban Centres,9. Professional Occupations,10. Civil Service,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,2,1
+140710010701008,2. URBAN,14. ADDIS ABABA,07,10,1,7,010,08,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,,1. YES,20,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,1. YES,5,7
+140711010701116,2. URBAN,14. ADDIS ABABA,07,11,1,7,011,16,4. Small-Scale Trade & Service Provision,9. Professional Occupations,"3. Firewood, Charcoal Selling",,1. YES,4,2. Urban Centres,10. Civil Service,9. Professional Occupations,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,40,35
+140712010701250,2. URBAN,14. ADDIS ABABA,07,12,1,7,012,50,4. Small-Scale Trade & Service Provision,,,,1. YES,1,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,10,10
+140712010701264,2. URBAN,14. ADDIS ABABA,07,12,1,7,012,64,4. Small-Scale Trade & Service Provision,,,,1. YES,1,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,10,10
+140713010701371,2. URBAN,14. ADDIS ABABA,07,13,1,7,013,71,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,20,7
+140801010800119,2. URBAN,14. ADDIS ABABA,08,01,1,8,001,19,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry","5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,day workers,1. YES,40,60
+140804010800447,2. URBAN,14. ADDIS ABABA,08,04,1,8,004,47,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry","5. Beer Brewing, Kachasu",,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,day workers,1. YES,40,60
+140807010800749,2. URBAN,14. ADDIS ABABA,08,07,1,8,007,49,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,,2. NO,,,,,,1. YES,2. Urban Centres,11. Other (Specify),,Yebet Serategha,1. YES,,
+140809010800932,2. URBAN,14. ADDIS ABABA,08,09,1,8,009,32,9. Professional Occupations,4. Small-Scale Trade & Service Provision,8. Large-Scale Commercial Industry,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,8. Large-Scale Commercial Industry,,1. YES,30,70
+140810010801022,2. URBAN,14. ADDIS ABABA,08,10,1,8,010,22,9. Professional Occupations,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,20,80
+140810010801057,2. URBAN,14. ADDIS ABABA,08,10,1,8,010,57,9. Professional Occupations,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,,,1. YES,20,80
+140812010801246,2. URBAN,14. ADDIS ABABA,08,12,1,8,012,46,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,2. Urban Centres,9. Professional Occupations,,,1. YES,50,50
+140813010801344,2. URBAN,14. ADDIS ABABA,08,13,1,8,013,44,4. Small-Scale Trade & Service Provision,10. Civil Service,9. Professional Occupations,,2. NO,,,,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,1. YES,30,70
+140901010900115,2. URBAN,14. ADDIS ABABA,09,01,1,9,001,15,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,65,35
+140901010900128,2. URBAN,14. ADDIS ABABA,09,01,1,9,001,28,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,65,35
+140902010900263,2. URBAN,14. ADDIS ABABA,09,02,1,9,002,63,"6. Handicraft Production, Small-Scale Industry",9. Professional Occupations,10. Civil Service,,1. YES,5,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",11. Other (Specify),Anestegna sira,1. YES,1. Rural Areas,11. Other (Specify),,Yetegegnewun sira,1. YES,15,75
+140905010900503,2. URBAN,14. ADDIS ABABA,09,05,1,9,005,03,4. Small-Scale Trade & Service Provision,9. Professional Occupations,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yebet Seratgna,2. NO,,,,,1. YES,1,2
+140906010900663,2. URBAN,14. ADDIS ABABA,09,06,1,9,006,63,10. Civil Service,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,2,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,2,1
+140909010900935,2. URBAN,14. ADDIS ABABA,09,09,1,9,009,35,10. Civil Service,4. Small-Scale Trade & Service Provision,,,1. YES,5,2. Urban Centres,11. Other (Specify),,Kitre,2. NO,,,,,1. YES,37,38
+140911010901147,2. URBAN,14. ADDIS ABABA,09,11,1,9,011,47,9. Professional Occupations,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,7,2. Urban Centres,9. Professional Occupations,,,1. YES,1. Rural Areas,10. Civil Service,,,1. YES,27,73
+140912010901207,2. URBAN,14. ADDIS ABABA,09,12,1,9,012,07,8. Large-Scale Commercial Industry,4. Small-Scale Trade & Service Provision,10. Civil Service,,1. YES,5,2. Urban Centres,9. Professional Occupations,7. Transport,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,5,2
+141001011000136,2. URBAN,14. ADDIS ABABA,10,01,1,10,001,36,9. Professional Occupations,10. Civil Service,4. Small-Scale Trade & Service Provision,,2. NO,,,,,,1. YES,1. Rural Areas,9. Professional Occupations,4. Small-Scale Trade & Service Provision,,1. YES,10,12
+141004011000409,2. URBAN,14. ADDIS ABABA,10,04,1,10,004,09,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,Beglaseb drejitoch Lamekater,1. YES,5,50
+141005011000511,2. URBAN,14. ADDIS ABABA,10,05,1,10,005,11,4. Small-Scale Trade & Service Provision,,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,2,5
+141007011000713,2. URBAN,14. ADDIS ABABA,10,07,1,10,007,13,11. Other (Specify),4. Small-Scale Trade & Service Provision,10. Civil Service,Yfabrika Seratgena,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),4. Small-Scale Trade & Service Provision,Ykene Sira,1. YES,65,35
+141008011000847,2. URBAN,14. ADDIS ABABA,10,08,1,10,008,47,4. Small-Scale Trade & Service Provision,,,,1. YES,5,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,3
+150101010100105,2. URBAN,15. DIRE DAWA,01,01,1,1,001,05,4. Small-Scale Trade & Service Provision,10. Civil Service,,,1. YES,20,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+150101010100117,2. URBAN,15. DIRE DAWA,01,01,1,1,001,17,4. Small-Scale Trade & Service Provision,10. Civil Service,,,1. YES,20,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+150101010100305,2. URBAN,15. DIRE DAWA,01,01,1,1,003,05,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100318,2. URBAN,15. DIRE DAWA,01,01,1,1,003,18,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100330,2. URBAN,15. DIRE DAWA,01,01,1,1,003,30,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100344,2. URBAN,15. DIRE DAWA,01,01,1,1,003,44,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100357,2. URBAN,15. DIRE DAWA,01,01,1,1,003,57,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100370,2. URBAN,15. DIRE DAWA,01,01,1,1,003,70,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100383,2. URBAN,15. DIRE DAWA,01,01,1,1,003,83,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010100407,2. URBAN,15. DIRE DAWA,01,01,1,1,004,07,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,1. YES,40,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+150101010100420,2. URBAN,15. DIRE DAWA,01,01,1,1,004,20,4. Small-Scale Trade & Service Provision,10. Civil Service,"6. Handicraft Production, Small-Scale Industry",,1. YES,40,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+150101010100431,2. URBAN,15. DIRE DAWA,01,01,1,1,004,31,4. Small-Scale Trade & Service Provision,10. Civil Service,7. Transport,,1. YES,40,2. Urban Centres,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,2. NO,,
+150101010100511,2. URBAN,15. DIRE DAWA,01,01,1,1,005,11,4. Small-Scale Trade & Service Provision,10. Civil Service,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yesaw betseratynet,2. NO,,,,,1. YES,47,53
+150101010100524,2. URBAN,15. DIRE DAWA,01,01,1,1,005,24,4. Small-Scale Trade & Service Provision,10. Civil Service,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yesawbet seratyent,2. NO,,,,,1. YES,47,53
+150101010100538,2. URBAN,15. DIRE DAWA,01,01,1,1,005,38,4. Small-Scale Trade & Service Provision,,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yesewbet seratyent,2. NO,,,,,1. YES,47,53
+150101010100550,2. URBAN,15. DIRE DAWA,01,01,1,1,005,50,4. Small-Scale Trade & Service Provision,,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,Yesaw bet seratynet,2. NO,,,,,1. YES,47,53
+150101010100607,2. URBAN,15. DIRE DAWA,01,01,1,1,006,07,4. Small-Scale Trade & Service Provision,7. Transport,10. Civil Service,,1. YES,20,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,20,10
+150101010100620,2. URBAN,15. DIRE DAWA,01,01,1,1,006,20,4. Small-Scale Trade & Service Provision,7. Transport,10. Civil Service,,1. YES,20,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,20,10
+150101010100712,2. URBAN,15. DIRE DAWA,01,01,1,1,007,12,4. Small-Scale Trade & Service Provision,11. Other (Specify),,yegulbet ser,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,yebet ser,1. YES,1. Rural Areas,11. Other (Specify),,yeken sera,1. YES,0,5
+150101010100726,2. URBAN,15. DIRE DAWA,01,01,1,1,007,26,4. Small-Scale Trade & Service Provision,11. Other (Specify),,yegulbet ser,1. YES,5,3. Outside Ethiopia,11. Other (Specify),,yebet ser,1. YES,1. Rural Areas,11. Other (Specify),,yeke sera,1. YES,0,5
+150101010100807,2. URBAN,15. DIRE DAWA,01,01,1,1,008,07,4. Small-Scale Trade & Service Provision,"5. Beer Brewing, Kachasu",10. Civil Service,,1. YES,20,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,15,10
+150101010100822,2. URBAN,15. DIRE DAWA,01,01,1,1,008,22,4. Small-Scale Trade & Service Provision,7. Transport,"5. Beer Brewing, Kachasu",,1. YES,20,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,15,10
+150101010100912,2. URBAN,15. DIRE DAWA,01,01,1,1,009,12,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,2. NO,,,,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,10
+150101010101001,2. URBAN,15. DIRE DAWA,01,01,1,1,010,01,4. Small-Scale Trade & Service Provision,7. Transport,10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,40,10
+150101010101013,2. URBAN,15. DIRE DAWA,01,01,1,1,010,13,4. Small-Scale Trade & Service Provision,7. Transport,10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,40,10
+150101010101026,2. URBAN,15. DIRE DAWA,01,01,1,1,010,26,4. Small-Scale Trade & Service Provision,7. Transport,10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,40,10
+150101010110304,2. URBAN,15. DIRE DAWA,01,01,1,1,103,04,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101010110317,2. URBAN,15. DIRE DAWA,01,01,1,1,103,17,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101088800302,1. RURAL,15. DIRE DAWA,01,01,8,88,003,02,1. Farming,4. Small-Scale Trade & Service Provision,"3. Firewood, Charcoal Selling",,1. YES,5,2. Urban Centres,11. Other (Specify),,á‹¨á‰€áŠ• áˆ¥áˆ«(á‹¨áŒ‰áˆá‰ á‰µ áˆ¥áˆ«),2. NO,,,,,2. NO,,
+150101088800411,2. URBAN,15. DIRE DAWA,01,01,8,88,004,11,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101088800501,1. RURAL,15. DIRE DAWA,01,01,8,88,005,01,1. Farming,4. Small-Scale Trade & Service Provision,,,2. NO,,,,,,1. YES,1. Rural Areas,11. Other (Specify),,yegulbet sira,2. NO,,
+150101088801007,1. RURAL,15. DIRE DAWA,01,01,8,88,010,07,1. Farming,,,,1. YES,2,3. Outside Ethiopia,11. Other (Specify),,yebatseratg,2. NO,,,,,2. NO,,
+150101088801401,1. RURAL,15. DIRE DAWA,01,01,8,88,014,01,1. Farming,"3. Firewood, Charcoal Selling",,,2. NO,,,,,,2. NO,,,,,2. NO,,
+150101088801705,1. RURAL,15. DIRE DAWA,01,01,8,88,017,05,1. Farming,,,,1. YES,2,2. Urban Centres,"6. Handicraft Production, Small-Scale Industry",,,2. NO,,,,,2. NO,,
+150101088802010,1. RURAL,15. DIRE DAWA,01,01,8,88,020,10,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+150101088802301,1. RURAL,15. DIRE DAWA,01,01,8,88,023,01,1. Farming,,,,2. NO,,,,,,2. NO,,,,,2. NO,,
+150101088802507,1. RURAL,15. DIRE DAWA,01,01,8,88,025,07,1. Farming,"3. Firewood, Charcoal Selling",,,1. YES,1,2. Urban Centres,11. Other (Specify),,Ya kan sira,2. NO,,,,,2. NO,,
+150101088802704,1. RURAL,15. DIRE DAWA,01,01,8,88,027,04,1. Farming,"3. Firewood, Charcoal Selling",11. Other (Specify),ashewa ina dingay,1. YES,10,2. Urban Centres,9. Professional Occupations,,,2. NO,,,,,2. NO,,
+150101088802908,2. URBAN,15. DIRE DAWA,01,01,8,88,029,08,4. Small-Scale Trade & Service Provision,"6. Handicraft Production, Small-Scale Industry",10. Civil Service,,1. YES,15,3. Outside Ethiopia,4. Small-Scale Trade & Service Provision,,,1. YES,1. Rural Areas,4. Small-Scale Trade & Service Provision,,,1. YES,5,0
+150101088803105,1. RURAL,15. DIRE DAWA,01,01,8,88,031,05,1. Farming,,,,1. YES,10,2. Urban Centres,11. Other (Specify),,á‹¨á‰€áŠ• áˆ¥áˆ«/á‹¨á‰°áŒˆáŠ˜á‹áŠ• á‹¨áŒ‰áˆá‰ á‰µ áˆ¥áˆ«/,2. NO,,,,,2. NO,,
+150101088803404,1. RURAL,15. DIRE DAWA,01,01,8,88,034,04,1. Farming,,,,1. YES,2,2. Urban Centres,11. Other (Specify),,á‹¨á‰°áŒˆáŠ˜á‹áŠ• á‹¨á‰€áŠ• áˆ¥áˆ«/á‹¨áŒ‰áˆá‰ á‰µ áˆ¥áˆ«/,2. NO,,,,,2. NO,,
+150101088803701,1. RURAL,15. DIRE DAWA,01,01,8,88,037,01,1. Farming,,,,1. YES,5,2. Urban Centres,11. Other (Specify),,á‹¨á‰€áŠ• áˆ¥áˆ«/ á‹¨á‰°áŒˆáŠ˜á‹‰áŠ• á‹¨áŒ‰áˆá‰ á‰µ áˆ¥áˆ«/,2. NO,,,,,2. NO,,

@@ -1,0 +1,260 @@
+"region","zonename","zone","woredaname","woreda","local_unit","conversion"
+1,"North Western Tigray",1,"Tahitay Adiyabo",1,3,1310.83203125
+1,"North Western Tigray",1,"Laelay Adiabo",2,3,1801.46801757813
+1,"North Western Tigray",1,"Medebay Zana",3,3,1801.46801757813
+1,"North Western Tigray",1,"Asegede Tsimbila",5,3,1310.83203125
+1,"North Western Tigray",1,"Tselemt",6,3,1310.83203125
+1,"Central Tigray",2,"Mereb Leha",1,3,1617.37194824219
+1,"Central Tigray",2,"Ahiferom",2,3,2428.77197265625
+1,"Central Tigray",2,"Wereilehi",3,3,2428.77197265625
+1,"Central Tigray",2,"Adwa",4,3,2428.77197265625
+1,"Central Tigray",2,"Tahitay Maychew",6,3,1617.37194824219
+1,"Central Tigray",2,"NADER ADET",7,3,2428.77197265625
+1,"Central Tigray",2,"Kola Temben",8,3,2428.77197265625
+1,"Central Tigray",2,"Degua Temben",9,3,2428.77197265625
+1,"Eastern Tigray",3,"Gulo Meheda",1,3,1774.25402832031
+1,"Eastern Tigray",3,"Saesi Tsadamba",3,3,1774.25402832031
+1,"Eastern Tigray",3,"Ganta Afeshum",4,3,2458.05810546875
+1,"Eastern Tigray",3,"Hawzen",5,3,2458.05810546875
+1,"Eastern Tigray",3,"Atsbi Wonberta",7,3,1774.25402832031
+1,"South Tigray",4,"Seharti Samre",1,3,1978.38305664063
+1,"South Tigray",4,"Hintalo Wajirat",3,3,2214.912109375
+1,"South Tigray",4,"Ambalage",4,3,1978.38305664063
+1,"South Tigray",4,"Endamehone",5,3,2214.912109375
+1,"South Tigray",4,"Rya Azebo",6,3,1978.38305664063
+1,"South Tigray",4,"Ofla",8,3,2214.912109375
+1,"Western Tigray",5,"Qafta Humera",1,3,1310.83203125
+1,"Western Tigray",5,"Welqayet",2,3,1801.46801757813
+1,"Western Tigray",5,"Tsegede",3,3,1310.83203125
+3,"North Gondar",1,"Adiarikay",1,3,1333.09497070313
+3,"North Gondar",1,"Debark",4,3,2183.88598632813
+3,"North Gondar",1,"Lay Armachew",8,3,2807.50610351563
+3,"North Gondar",1,"Gondar Zuriya",10,3,2183.88598632813
+3,"North Gondar",1,"DEMBIA",11,3,2183.88598632813
+3,"North Gondar",1,"Chilga",12,3,2807.50610351563
+3,"North Gondar",1,"Quara",14,3,2807.50610351563
+3,"North Gondar",1,"Merab Belesa",16,3,2183.88598632813
+3,"South Gondar",2,"Ebinat",1,3,1767.791015625
+3,"South Gondar",2,"Libokemkem",2,3,2620.80688476563
+3,"South Gondar",2,"Fogera",3,3,2620.80688476563
+3,"South Gondar",2,"Farta",4,3,2620.80688476563
+3,"South Gondar",2,"Lay Gayint",5,3,1767.791015625
+3,"South Gondar",2,"Simada",7,3,1767.791015625
+3,"South Gondar",2,"Dera",9,3,2620.80688476563
+3,"North Wollo",3,"Bugna",1,3,1511.72497558594
+3,"North Wollo",3,"Kobo",2,3,1594.55004882813
+3,"North Wollo",3,"Gidan",3,3,1511.72497558594
+3,"North Wollo",3,"Meket",4,3,1594.55004882813
+3,"North Wollo",3,"Wadla",5,3,1594.55004882813
+3,"North Wollo",3,"Guba Lafto",7,3,1594.55004882813
+3,"North Wollo",3,"Habru",8,3,1511.72497558594
+3,"South Wolo",4,"Kutaber",3,3,1376.97705078125
+3,"South Wolo",4,"Werebabo",6,3,1376.97705078125
+3,"South Wolo",4,"Kalu",7,3,2004.04797363281
+3,"South Wolo",4,"Dese Zuriya",9,3,2004.04797363281
+3,"South Wolo",4,"Sayinit",11,3,2004.04797363281
+3,"SOUTH WOLO",4,"DEBRESINA",12,3,1376.97705078125
+3,"South Wolo",4,"Jama",14,3,2004.04797363281
+3,"South Wolo",4,"WOGIDI",16,3,2004.04797363281
+3,"North Shewa",5,"Mida Oromo",1,3,1875.5400390625
+3,"North Shewa",5,"Moretna Juru",4,3,2500.30004882813
+3,"North Shewa",5,"Antsokiya Gemza",7,3,1875.5400390625
+3,"North Shewa",5,"MENZ MAMA MIDIR",9,3,2203.39501953125
+3,"North Shewa",5,"Mojana Wedera",11,3,2203.39501953125
+3,"North Shewa",5,"Angolelana Tera",13,3,2500.30004882813
+3,"North Shewa",5,"Ankober",15,3,1875.5400390625
+3,"East Gojjam",6,"Huletej Enese",2,3,1826.95300292969
+3,"East Gojjam",6,"Gonchasiso enese",3,3,1826.95300292969
+3,"East Gojjam",6,"Enebise Sar Midir",4,3,1172.44396972656
+3,"East Gojjam",6,"Enemay",6,3,2246.64111328125
+3,"East Gojjam",6,"Machakel",9,3,2246.64111328125
+3,"East Gojjam",6,"Gozamin",10,3,2246.64111328125
+3,"East Gojjam",6,"Baso Liben",11,3,1826.95300292969
+3,"East Gojjam",6,"SHEBEL BERENTA",14,3,1172.44396972656
+3,"West Gojjam",7,"North Achefer",1,3,1253.51696777344
+3,"West Gojjam",7,"Yilmana Densa",3,3,2690.61303710938
+3,"West Gojjam",7,"Sekela",5,3,2690.61303710938
+3,"West Gojjam",7,"Dembecha",8,3,1253.51696777344
+3,"West Gojjam",7,"Bure",10,3,2690.61303710938
+3,"West Gojjam",7,"South Achefer",13,3,1253.61303710938
+3,"Wag Himra",8,"Sekota",2,3,1149.0439453125
+3,"Wag Himra",8,"Dehena",3,3,1149.0439453125
+3,"Wag Himra",8,"GAZGIBILA",4,3,1149.0439453125
+3,"Awi",9,"Dangila",1,3,2363.294921875
+3,"Awi",9,"Banja Shekudad",2,3,2363.294921875
+3,"Awi",9,"Guangua",4,3,2363.294921875
+3,"Awi",9,"Fagita Lekoma",5,3,2363.294921875
+3,"Oromiya",10,"Dawa Chefa",1,3,1580.24401855469
+3,"Oromiya",10,"Bati",2,3,1580.24401855469
+3,"Oromiya",10,"Artuma Fursi",4,3,1580.24401855469
+4,"West Wellega",1,"Mene Sibu",1,3,950.575988769531
+4,"West Wellega",1,"Gibnbi",3,3,950.575988769531
+4,"West Wellega",1,"Gibnbi",3,5,1112.93005371094
+4,"West Wellega",1,"Boji Dermeji",6,3,950.575988769531
+4,"West Wellega",1,"Boji Dermeji",6,5,1478.54504394531
+4,"West Wellega",1,"Genji",13,3,1130.19104003906
+4,"West Wellega",1,"Genji",13,5,1112.93005371094
+4,"West Wellega",1,"Haru",14,3,1130.19104003906
+4,"West Wellega",1,"Haru",14,5,1112.93005371094
+4,"West Wellega",1,"Seyo Nole",18,3,1421.94104003906
+4,"West Wellega",1,"Seyo Nole",18,5,1478.54504394531
+4,"East Wellega",2,"Limu",4,3,1269.44604492188
+4,"East Wellega",2,"Diga",10,3,1269.44604492188
+4,"East Wellega",2,"Diga",10,5,1503.67602539063
+4,"East Wellega",2,"Sasiga",11,3,837.241027832031
+4,"East Wellega",2,"Sasiga",11,5,494.941986083984
+4,"East Wellega",2,"Leka Dulecha",12,3,1269.44604492188
+4,"East Wellega",2,"Jimma Arjo",14,3,1269.44604492188
+4,"East Wellega",2,"Jimma Arjo",14,5,1503.67602539063
+4,"Ilu Aba Bora",3,"Chora",3,3,1142.52697753906
+4,"Ilu Aba Bora",3,"DEDESA",8,3,1142.52697753906
+4,"Ilu Aba Bora",3,"DEDESA",8,5,1099.92602539063
+4,"Ilu Aba Bora",3,"Becho",14,4,1140.64794921875
+4,"Ilu Aba Bora",3,"Bedele",22,3,1142.52697753906
+4,"Ilu Aba Bora",3,"Bedele",22,5,1099.92602539063
+4,"Jimma",4,"Limu Seka",1,3,1135.48706054688
+4,"Jimma",4,"Limu Seka",1,5,1086.0009765625
+4,"Jimma",4,"Tiro Afeta",4,3,948.953979492188
+4,"Jimma",4,"Tiro Afeta",4,5,1086.0009765625
+4,"Jimma",4,"Kerisa",5,3,796.755981445313
+4,"Jimma",4,"Kerisa",5,5,903.593017578125
+4,"Jimma",4,"Goma",7,3,948.953979492188
+4,"Jimma",4,"Goma",7,5,903.593017578125
+4,"Jimma",4,"Dedo",10,3,796.755981445313
+4,"Jimma",4,"Dedo",10,5,903.593017578125
+4,"Jimma",4,"SIGAMO",12,3,1135.48706054688
+4,"Jimma",4,"SIGAMO",12,5,1086.0009765625
+4,"West Shewa",5,"Ambo",3,3,1488.4169921875
+4,"West Shewa",5,"Nono",8,3,1488.4169921875
+4,"WEST SHEWA",5,"WOLMERA",12,6,1300.7080078125
+4,"West Shewa",5,"Adea Berga",13,6,1300.7080078125
+4,"North Shewa",6,"Were Jarso",1,3,1160.51000976563
+4,"North Shewa",6,"Degem",5,3,1160.51000976563
+4,"North Shewa",6,"Bereh",11,3,2105.31494140625
+4,"East Shewa",7,"Fentale",1,3,2577.79296875
+4,"East Shewa",7,"Fentale",1,4,205.947006225586
+4,"East Shewa",7,"Fentale",1,6,2483.07592773438
+4,"East Shewa",7,"Lomme",4,3,2577.79296875
+4,"East Shewa",7,"Lomme",4,4,155.343002319336
+4,"East Shewa",7,"Lomme",4,6,2860.17504882813
+4,"East Shewa",7,"Ada'a",6,3,2577.79296875
+4,"East Shewa",7,"Ada'a",6,4,155.343002319336
+4,"East Shewa",7,"Ada'a",6,6,2483.07592773438
+4,"East Shewa",7,"Dugda",7,3,2274.61889648438
+4,"East Shewa",7,"Dugda",7,4,155.343002319336
+4,"East Shewa",7,"Dugda",7,6,2483.07592773438
+4,"East Shewa",7,"Akaki",12,4,205.947006225586
+4,"East Shewa",7,"Akaki",12,6,2860.17504882813
+4,"Arsi",8,"Zeway Dugda",6,3,2447.19702148438
+4,"Arsi",8,"Zeway Dugda",6,4,122.877998352051
+4,"Arsi",8,"AMIGNA",10,3,2447.19702148438
+4,"Arsi",8,"AMIGNA",10,4,205.339004516602
+4,"Arsi",8,"Robe",12,3,2447.19702148438
+4,"Arsi",8,"Robe",12,4,155.009002685547
+4,"Arsi",8,"Digelona tijo",15,3,2447.19702148438
+4,"Arsi",8,"Digelona tijo",15,4,122.877998352051
+4,"Arsi",8,"Munesa",17,3,2447.19702148438
+4,"Arsi",8,"Munesa",17,4,122.877998352051
+4,"West Hararge",9,"Meiso",1,3,937.473999023438
+4,"West Hararge",9,"Meiso",1,4,167.70100402832
+4,"West Hararge",9,"Guba Qoricha",7,3,750.966979980469
+4,"West Hararge",9,"Guba Qoricha",7,4,126.660003662109
+4,"West Hararge",9,"DARO LEBU",9,3,750.966979980469
+4,"West Hararge",9,"DARO LEBU",9,4,126.660003662109
+4,"West Hararge",9,"Boke",10,3,750.966979980469
+4,"West Hararge",9,"Boke",10,4,167.70100402832
+4,"West Hararge",9,"CHIRO ZURIYA",13,3,750.966979980469
+4,"West Hararge",9,"CHIRO ZURIYA",13,4,126.660003662109
+4,"East Hararge",10,"Fedis",5,3,736.544006347656
+4,"East Hararge",10,"Meta",9,3,590.0830078125
+4,"East Hararge",10,"Meta",9,4,118.414001464844
+4,"East Hararge",10,"Bedeno",13,3,736.544006347656
+4,"East Hararge",10,"Bedeno",13,4,118.414001464844
+4,"EAST HARARGE",10,"GIRAWA",16,3,736.544006347656
+4,"Bale",11,"GINNIR",8,3,1595.81005859375
+4,"Bale",11,"GINNIR",8,4,169.440994262695
+4,"Bale",11,"GORO",16,3,1595.81005859375
+4,"Bale",11,"GORO",16,4,169.440994262695
+4,"BALE",11,"SEWEYNA",18,3,1195.36596679688
+4,"BALE",11,"SEWEYNA",18,4,117.925003051758
+4,"Borena",12,"Dire",11,3,1213.52905273438
+4,"Borena",12,"Dire",11,4,254.718994140625
+4,"South West Shewa",13,"Wonchi",2,3,1488.4169921875
+4,"South West Shewa",13,"Wonchi",2,4,615.815979003906
+4,"South West Shewa",13,"Elu",5,3,2515.333984375
+4,"South West Shewa",13,"Elu",5,4,1140.64794921875
+4,"South West Shewa",13,"Becho",9,4,1140.64794921875
+4,"South West Shewa",13,"Goro",12,3,1488.4169921875
+4,"South West Shewa",13,"Goro",12,4,1140.64794921875
+4,"Guji",14,"Bore",2,3,1213.52905273438
+4,"Guji",14,"Bore",2,4,254.718994140625
+4,"Guji",14,"Odo Shakiso",5,3,1213.52905273438
+4,"West Arsi",17,"Arsi Negele",3,3,2577.79296875
+4,"West Arsi",17,"Arsi Negele",3,4,155.343002319336
+4,"West Arsi",17,"Arsi Negele",3,6,2483.07592773438
+4,"West Arsi",17,"Dodola",7,3,2395.88305664063
+4,"West Arsi",17,"Dodola",7,4,117.925003051758
+4,"West Arsi",17,"Shashemene",12,3,2274.61889648438
+4,"West Arsi",17,"Shashemene",12,4,155.343002319336
+4,"West Arsi",17,"Shashemene",12,6,764.366027832031
+4,"Qeleme Wellega",18,"Anfilo",7,3,1130.19104003906
+4,"Qeleme Wellega",18,"Anfilo",7,5,1112.93005371094
+4,"Horo Gudru Wellega",19,"Horo",1,3,2079.56909179688
+4,"Horo Gudru Wellega",19,"Hababo Guduru",4,3,2772.96899414063
+4,"Horo Gudru Wellega",19,"Hababo Guduru",4,5,2480.7509765625
+4,"Horo Gudru Wellega",19,"JARTE JARDGA",8,3,2079.56909179688
+5,"Shinile",1,"Shinile",3,3,1093.5
+5,"Shinile",1,"Erer",4,3,981.369995117188
+5,"Jijjiga",2,"Gursum",2,3,590.0830078125
+5,"Jijjiga",2,"Jijjiga",4,4,172.020004272461
+5,"Jijjiga",2,"Qebri Beyah",6,4,172.020004272461
+5,"Liben",9,"Filtu",1,3,1269.21997070313
+5,"Liben",9,"Moyale",3,3,1021.82000732422
+6,"Metekel",2,"Mandura",4,3,1933
+6,"Metekel",2,"Bulon",7,3,1839
+6,"Assosa",3,"Mengie",1,6,843
+6,"Assosa",3,"Assosa",3,3,1270
+6,"Assosa",3,"Bambis",5,3,1270
+6,"Kamashi",4,"Belojegenfoy",5,3,1277.14001464844
+6,"Mao komo",6,"Mao komo",8,3,1270
+7,"Hadiya",2,"MISRAK BADAWOCHO",5,3,1835.21997070313
+7,"Kembata Timbaro",3,"Anigacha",2,3,1852.47204589844
+7,"Kembata Timbaro",3,"Kacha Bira",4,3,1852.47204589844
+7,"Sidama",4,"Shebedino",1,3,1046.21398925781
+7,"Sidama",4,"Dale",4,3,933.263977050781
+7,"Sidama",4,"Dara",6,3,1046.21398925781
+7,"Sidama",4,"ARORESA",9,3,1046.21398925781
+7,"Wolayita",6,"DAMOT GALE",2,3,1169.10498046875
+7,"WOLAYITA",6,"DAMOT WOYIDE",3,3,1169.10498046875
+7,"Wolayita",6,"Sodo Zuriya",5,3,1169.10498046875
+7,"Wolayita",6,"OFA",7,3,2326.10498046875
+7,"South Omo",7,"Selamago",1,3,1086.77404785156
+7,"South Omo",7,"GELILA",3,3,1086.77404785156
+7,"Sheka",8,"Masha",1,3,1146.85998535156
+7,"Sheka",8,"YEKI",3,3,1146.85998535156
+7,"Kefa",9,"Gesha",2,3,1136.95300292969
+7,"Kefa",9,"Menjwo",5,3,1068.61804199219
+7,"KEFA",9,"TULO",6,3,1136.95300292969
+7,"Kefa",9,"Cheta",7,3,1068.61804199219
+7,"Kefa",9,"CHENA",9,3,1068.61804199219
+7,"Gamo Gofa",10,"Melekoza",1,3,1462.92004394531
+7,"Gamo Gofa",10,"Kucha",3,3,1462.92004394531
+7,"Gamo Gofa",10,"Ariba Minichi Zuriya",6,3,1157.30895996094
+7,"Gamo Gofa",10,"DITA",8,3,1157.30895996094
+7,"Gamo Gofa",10,"Deramalo",9,3,1157.30895996094
+7,"Gamo Gofa",10,"KEMBA",12,3,941.570007324219
+7,"Bench Maji",11,"Sheko",1,3,992.577026367188
+7,"Bench Maji",11,"Southern Bench",3,3,992.577026367188
+7,"Bench Maji",11,"Shay Bench",4,3,992.577026367188
+7,"Bench Maji",11,"MEANT GOLDIYA",5,3,992.577026367188
+7,"Amaro Special",13,"Amaro Special Wereda",1,3,1013.86499023438
+7,"Burji Special",14,"Burji Special",1,3,1044.51403808594
+7,"Konso Special",15,"Konso Special",1,3,1013.12902832031
+7,"Derashe Lyiu Wereda",16,"Derashe Special",1,3,834.017028808594
+7,"Basketo",18,"Basketo",1,3,936.411010742188
+7,"Alaba",21,"Alaba",1,3,1852.47204589844
+12,"Agnewak",1,"Abobo",2,3,1042.53503417969
+12,"Mejenger",3,"Godere",1,3,1042.53503417969
+13,"None",1,"Hundene",1,3,570
+13,"None",1,"Hundene",1,4,140
+15,"None",1,"Gurgura",2,3,1051.0830078125
