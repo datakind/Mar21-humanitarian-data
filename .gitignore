@@ -100,3 +100,5 @@ venv.bak/
 *.xlsx
 *.xlsm
 *.png
+*.jpg
+*.tif
