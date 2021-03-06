@@ -34,13 +34,16 @@ library(lwgeom)
 library(janitor)
 library(readxl)
 
+downloader::download(filepath, destfile = xltemp, mode="wb")
+
 
 options(scipen=999)#Disables scientific notation
 ## First, FUNCTIONS for reading all Ecxel sheets in humanitarian data from Robin
+
 read_excel_allsheets <- function(filepath, prefix) {
-  xltemp <- tempfile()
-  downloader::download(filepath, destfile = xltemp, mode="wb")
-  sheets <- readxl::excel_sheets(xltemp)
+  temp_read_excel <- tempfile()
+  downloader::download(filepath, destfile = temp_read_excel, mode="wb")
+  sheets <- readxl::excel_sheets(temp_read_excel)
   sheets_f <- sheets %>%
     str_replace_all("[[:punct:]]", " ")%>%
     str_replace(" ", "_")%>%
@@ -48,7 +51,7 @@ read_excel_allsheets <- function(filepath, prefix) {
   
   for (i in 1:length(sheets)){
     print(paste(i, ":", sheets_f[i]))
-    df_temp <- read_excel(xltemp, sheet = sheets[i])
+    df_temp <- read_excel(temp_read_excel, sheet = sheets[i])
     assign(paste0(prefix, "_",i,"_", sheets_f[i]), df_temp, envir = globalenv())
   }
 }
@@ -73,7 +76,6 @@ rt_fun_df <- function(df, desc, col_range){
   
   return(df1)
 }
-
 rt_fun_df_d <- function(df, desc, col_range){
   df1 <- df[col_range]%>%
     row_to_names(row_number = 1)
@@ -84,8 +86,6 @@ rt_fun_df_d <- function(df, desc, col_range){
     rownames_to_column()
   return(df1_d)
 }
-
-
 
 
 ##Download shapefiles ADM1, ADM2, and ADM3 together from https://data.humdata.org/dataset/ethiopia-cod-ab. All are contained in one zip file.
@@ -115,13 +115,10 @@ ETH3Pop<-read_csv("https://data.humdata.org/dataset/3d9b037f-5112-4afd-92a7-190a
 ##Medical sites from https://data.humdata.org/dataset/ethiopia-healthsites
 medical<-geojson_sf("https://data.humdata.org/dataset/0cc29a44-cc6d-449a-b3b7-d28fb2066c26/resource/efba3ee3-7594-4ad9-bcbf-971687bb2d5e/download/ethiopia.geojson")
 
-
-for (i in unique(medical$amenity)){
-  dat<-medical%>%
-    filter(amenity==i)
-  
-  assign(paste0("medical",i),dat)
-}
+ggplot(ETH2)+
+  geom_sf()+
+  geom_sf(data=medical, aes(color=amenity))+
+  labs(title = "Medical Sites")
 
 ## Refugee Camp Locations from https://data.humdata.org/dataset/ethiopia-refugee-camp-locations
 download.file("https://data.humdata.org/dataset/19ba356b-170e-430e-82d8-7d1acdb58ffc/resource/b469e2cb-7eb6-4e62-a303-41ad51f9e0b7/download/eth_refugee_camps_unhcr_2019.zip",temp)
@@ -143,13 +140,7 @@ filepath <- "https://data.humdata.org/dataset/882d0746-ac2a-4471-b40d-a92dee832e
 
 read_excel_allsheets(filepath, prefix = 'df')
 
-
-sheets <- readxl::excel_sheets(temp)
-
 ## Adjust dfs
-## df_1: NOT USEFUL INFORMATION
-# df_1_Key_figures <- row_to_names(df_1_Key_figures, row_number = 1)
-# View(df_1_Key_figures)
 
 ##df_2
 df <- df_2_PIN_bySAADAdmin3
@@ -167,11 +158,93 @@ df3_d <- rt_fun_df_d(df, "living_stds_consq", c(6, 22:28))
 df0 <- rt_fun_df(df, "keys", c(1:6))
 df0_d <- rt_fun_df_d(df, "keys", c(1:6))
 
+## df_3 
+df_3_d  <- df_3_Sectoral_PINbyAdmin3[1,c(6:14)] %>%
+  t()%>%
+  as.data.frame()%>%
+  rownames_to_column()
+
+df_3 <- df_3_Sectoral_PINbyAdmin3[,c(6:14)] %>%
+  filter(!str_starts(admin3Pcode, "#"))%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_3
+df_3_d  <- df_3_Sectoral_PINbyAdmin3[1,c(6:14)] %>%
+  t()%>%
+  as.data.frame()%>%
+  rownames_to_column()
+
+df_3 <- df_3_Sectoral_PINbyAdmin3[,c(6:14)] %>%
+  filter(!str_starts(admin3Pcode, "#"))
+colnames(df_3) <- paste0("sectoral_PIN_", colnames(df_3))
+df_3 <- df_3%>%
+  clean_names()%>%
+  rename(admin3Pcode = "sectoral_pin_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_4
+df_4 <- df_4_Conflict_IDPsinsites[,c(9:12)]
+colnames(df_4) <- paste0("conflict_idps_in_sites_", colnames(df_4))
+df_4 <- df_4 %>%
+  clean_names()%>%
+  rename(admin3Pcode = "conflict_idps_in_sites_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+
+## df_5
+df_5 <- df_5_IDPs_inHostcommunities[,c(6:9)]
+colnames(df_5) <- paste0("idps_inHostCommunities_", colnames(df_5))
+df_5 <- df_5 %>%
+  clean_names()%>%
+  rename(admin3Pcode = "idps_in_host_communities_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_6
+df_6 <- df_6_Returnees_tooriginnothome[,c(6:9)]
+colnames(df_6) <- paste0("returnees_to_orign_not_home_", colnames(df_6))
+df_6 <- df_6 %>%
+  clean_names()%>%
+  rename(admin3Pcode = "returnees_to_orign_not_home_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_7
+df_7 <- df_7_Returned_tohome[,c(6:9)]
+colnames(df_7) <- paste0("returned_to_home_", colnames(df_7))
+df_7 <- df_7 %>%
+  clean_names() %>%
+  rename(admin3Pcode = "returned_to_home_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_8
+df_8<- df_8_Drought_inducedIDPs[,c(6:9)]
+colnames(df_8) <- paste0("drought_induced_idps_", colnames(df_8))
+df_8 <- df_8 %>%
+  clean_names() %>%
+  rename(admin3Pcode = "drought_induced_idps_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
+## df_9
+df_9 <- df_9_Flood_inducedIDPs[,c(6:9)]
+colnames(df_9) <- paste0("flood_induced_idps_", colnames(df_9))
+df_9<- df_9 %>%
+  clean_names() %>%
+  rename(admin3Pcode = "flood_induced_idps_admin3pcode")%>%
+  mutate(across(-c(1), as.numeric))
+
 df_all <- df0 %>%
   full_join(df1, on = admin3Pcode)%>%
   full_join(df2, on = admin3Pcode)%>%
   full_join(df3, on = admin3Pcode)%>%
-  mutate(across(-c(1:6), as.numeric))
+  full_join(df_3, on = admin3Pcode)%>%
+  full_join(df_4, on = admin3Pcode)%>%
+  full_join(df_5, on = admin3Pcode)%>%
+  full_join(df_6, on = admin3Pcode)%>%
+  full_join(df_7, on = admin3Pcode)%>%
+  full_join(df_8, on = admin3Pcode)%>%
+  full_join(df_9, on = admin3Pcode)
+
+df_all %>%
+  filter(admin3Pcode == 'ET020106')
 
 
 ##Livelihood Boundaries from https://fews.net/data
@@ -190,16 +263,6 @@ setwd("C://users/rcarder/downloads")
 
 foodSecurity<-st_read("ET_202101",layer="ET_202101_ML2")
 foodSecurityJoin<-st_drop_geometry(foodSecurity)
-
-
-##Get all datasets in the same CRS (using 3857 as that is what Mapbox requires)
-
-ETH1<-st_transform(ETH1, crs=3857,proj4string="+proj=longlat +datum=WGS84 +no_defs")
-ETH2<-st_transform(ETH2, crs=3857,proj4string="+proj=longlat +datum=WGS84 +no_defs")
-ETH3<-st_transform(ETH3, crs=3857,proj4string="+proj=longlat +datum=WGS84 +no_defs")
-refugeeCamps<-st_transform(refugeeCamps, crs=3857,proj4string="+proj=longlat +datum=WGS84 +no_defs")
-medical<-st_transform(medical, crs=3857,proj4string="+proj=longlat +datum=WGS84 +no_defs")
-
 
 
 ##############################
@@ -225,6 +288,7 @@ ETH3master<-ETH3%>%
   mutate(Density=Total/Shape_Area)%>%
   left_join(foodSecurityJoin, by=c("ADM3_EN.x"="ADMIN3"))
 
+
 ETH3master$refugeeCamps <- lengths(st_intersects(ETH3master, refugeeCamps))
 
 #Split medical places into different types
@@ -235,14 +299,17 @@ for (i in unique(medical$amenity)){
   assign(paste0("medical",i),dat)
 }
 
+
+
 #calculate how many of each type are contained within each boundary polygon
 ETH3master$doctors <- lengths(st_intersects(ETH3master, medicaldoctors))
 ETH3master$clinics <- lengths(st_intersects(ETH3master, medicalclinic))
 ETH3master$hospitals <- lengths(st_intersects(ETH3master, medicalhospital))
 ETH3master$pharmacies <- lengths(st_intersects(ETH3master, medicalpharmacy))
 
-
-##Plots###
+######################
+########Plots#########
+######################
 
 ## Plot simple maps to see what each boundary level looks like
 ggplot(ETH1)+
@@ -278,19 +345,18 @@ ggplot(ETH3master, aes(fill=ML2))+
   scale_fill_distiller(palette ="YlOrRd", direction=1)+
   labs(title="Food Security Classification", fill="Insecurity Level")
 
-##Plot Medical Site
 
-ggplot(ETH2)+
-  geom_sf()+
-  geom_sf(data=medical, aes(color=amenity))+
-  labs(title = "Medical Sites")
 
 
 
 
 ##Write Output Files
 
+
+setwd("C://users/rcarder/downloads")
 ETH3masterFlat<-st_drop_geometry(ETH3master)
+
+write.csv(ETH3masterFlat,"ETHADM3Join.csv")
 
 
 
