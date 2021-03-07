@@ -100,3 +100,6 @@ venv.bak/
 *.xlsx
 *.xlsm
 *.png
+
+# Mac OSX files
+.DS_Store
