@@ -102,3 +102,6 @@ venv.bak/
 *.png
 *.jpg
 *.tif
+
+# Mac OSX files
+.DS_Store
